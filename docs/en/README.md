@@ -1,5 +1,4 @@
 <h1 style="text-align: center;">On Regular Investing</h1>
-<hr />
 <p style="text-align: center;"> by <em>Xiaolai Li</em>, rewritten in English by <em>John Gordon</em> & <em>Xiaolai Li</em> &copy;2019</p>
 <div style="text-align: center;">
     <img src="../images/coverimage.gif" />
@@ -448,7 +447,7 @@ For regular investors, however, who always view things from a long-term perspect
 
 I often say the following:
 
->Don't have a blind faith in value investing.
+>Don't have blind faith in value investing.
 
 I also often say this:
 
@@ -456,11 +455,11 @@ I also often say this:
 
 Why do I feel that I always have to remind people of this? Because I often see this situation:
 
->Most people are clearly (short-term) trend investors, because the bull market was obviously the reason they entered the market! But as soon as they get trapped by the falling prices in the bear market, they suddenly become value investors!
+>Most people are clearly (short-term) trend investors, because the bull market was obviously the reason they entered the market! But as soon as they get trapped by falling prices in a bear market, they suddenly become value investors!
 
-So, in most situations, people who mention the concept of value investing to you actually only became value investors after getting trapped in the market. I can also guarantee to you that once the market picks up, they will suddenly turn into what they would call trend investors.
+So, in most situations, people who mention the concept of value investing to you actually only became value investors after getting trapped in the market. I can also guarantee to you that, once the market picks up, they will suddenly turn into what they would call trend investors.
 
-This is truly a fascinating phenomenon. They completely fail to understand that the huge loss and awkward situation that they are facing are entirely due to having a different perspective. Even sadder is that these people, who use the short term as the basis for their decisions, also don't know that they have no way of understanding the free and correct advice on the market that is available from those most successful investors who can be blindly followed. And it's all due to a different perspective! Because those "truly successful investors who have shown excellent returns over the long term" all look at things from a long-term perspective.
+This is truly a fascinating phenomenon. They completely fail to understand that the huge loss and the awkward situation that they are facing are entirely due to having a different perspective. Even sadder is that these people, who use the short term as the basis for their decisions, also don't know that they have no way of understanding the free and correct advice on the market that is available from those most successful investors who can be blindly followed. And it's all due to a different perspective! Because those "truly successful investors who have shown excellent returns over the long term" all look at things from a long-term perspective.
 
 To take it a step further, **trend investing is better than value investing when viewed from a long-term perspective**.
 
@@ -474,7 +473,7 @@ Behind this hidden limitation is an even more deeply hidden factor:
 
 It's an almost impossible feat to both pay attention to the details of the present and seriously consider everything that could happen in the distant future. This is the key reason why truly successful value investors are so rare. A good analogy is the saying that if you wear one watch you'll basically know what time it is, even if it's a few minutes slow or a few minutes fast, but if you wear two watches you'll be very mixed up.
 
-According to value investing theory, you must work hard to find an investment with a price below its actual value. But when will you sell it? According to the theory, once its price exceeds its actual value you should sell it, whether it's ten days or ten years after you purchased it. 
+According to value investing theory, you must work hard to find an investment with a price below its actual value. But when will you sell it? According to the theory, once its price exceeds its actual value you should sell it, whether it's been ten days or ten years since you purchased it. 
 
 Following this theory, even Warren Buffett will make mistakes. His most famous mistake was his investment in Disney -- he actually made two mistakes trading Disney stock. In 1966, 36-year-old Buffett met Disney founder Walt Disney in California. Following the meeting, Buffett bought 5% of Disney ([NYSE:DIS](https://www.google.com/search?q=NYSE:+DIS)) for \$4 million at a price of \$0.31 per share.
 
@@ -484,7 +483,7 @@ Following this theory, even Warren Buffett will make mistakes. His most famous m
 
 In his [1995 investor letter](https://www.berkshirehathaway.com/letters/1995.html), Buffett relayed this story. He bought Disney stock in 1966 at \$0.31 per share, and then sold it a year later for \$0.48 per share, making a profit of 50%. Over the next thirty years, Buffett could only watch as Disney stock rose, reaching \$65 in 1995. 
 
-But the story was not over. In 1995, Buffett helped Disney purchase Capital Cities/ABC, which he was a shareholder of, and Buffett once again ended up with a 3.6% stake in Disney! He sold his shares within three years, though, and missed out as Disney's stock continued to rise up to \$129 in October of 2019. [Business Insider calculated](https://markets.businessinsider.com/news/stocks/warren-buffett-made-20-billion-mistake-by-selling-disney-twice-2019-8-1028484967) that, had Buffett continued to hold 8.3% of Disney through 2019, his shares would be worth \$21 billion, and he would have received \$1.5 billion in dividends.
+But the story was not over. In 1995, Buffett helped Disney purchase Capital Cities/ABC, of which he was a shareholder, and once again ended up with a 3.6% stake in Disney! He sold his shares within three years, though, and missed out as Disney's stock continued to rise up to \$129 in October of 2019. [Business Insider calculated](https://markets.businessinsider.com/news/stocks/warren-buffett-made-20-billion-mistake-by-selling-disney-twice-2019-8-1028484967) that, had Buffett continued to hold 8.3% of Disney through 2019, his shares would have been worth \$21 billion, and he would have received \$1.5 billion in dividends.
 
 Of course, this story doesn't mean that Buffett failed in his investment, and he certainly didn't actually "lose" \$22.5 billion. After all, he made a profit on Disney, and he didn't just spend the money after selling -- he kept investing according to his strategy, and he has a 55-year track record of around 25% returns. Over the past 53 years, not accounting for dividends, Disney has returned just over 19% compounded annually. If dividends are taken in to account, Buffett would have been better off holding Disney, but he certainly didn't "lose" as much trading Disney as some people think.
 
@@ -494,27 +493,28 @@ Therefore, **regular investors focus more on the overall trend**. Even though we
 
 >If the correct trend is chosen, then while the difference between price and value is not unimportant, it's not as important as people think.
 
-With a focus on long-term trends and the requirement of only focusing on the long term, regular investment targets must be chosen in a different way. Compared to many other investors, regular investors have an extra screening criteria:
+With a focus on long-term trends, and the requirement of only focusing on the long term, regular investment targets must be chosen in a different way. Compared to many other investors, regular investors have an extra screening criterion:
 
 >Sustained growth over the long term.
 
-Don't discount the importance of "one extra criteria".
+Don't discount the importance of "one extra criterion".
 
 Amazon ([NASDAQ: AMZN](https://finance.yahoo.com/quote/AMZN/)) currently has the highest market cap of any e-commerce company in the world.  According to [Morningstar's calculations](http://performance.morningstar.com/stock/performance-return.action?t=AMZN), it has provided investors with a compound yearly return of 40.42% over the past five years. Over the past 15 years, the compound yearly return has been 28.51%.
 
-Have you thought about why Amazon started by selling books, even though there were so many other potential items to sell? Aside from the fact that the book market is a large market, and the fact that people need and want to buy books frequently, there is one extra screening criteria that the book market passes: once you have sold a book, you very rarely need to provide customer service. Just this one extra criteria eliminated 99.99% of the other choices!
+Have you thought about why Amazon started by selling books, even though there were so many other potential items to sell? Aside from the fact that the book market is a large market, and the fact that people need and want to buy books frequently, there is one extra screening criterion that the book market fulfills: once you have sold a book, you very rarely need to provide customer service. Just this one extra criterion eliminated 99.99% of the other choices!
 
-Regular investors can only chose investments that grow sustainably over the long term (of course, the more growth the better!). Just this one seemingly simple criteria eliminates 99.99% of the options, because, strictly speaking, there is no one individual investment that we can be sure will meet this criteria, no matter how good it looks now. This is because companies are just like people:
+Regular investors can only choose investments that grow sustainably over the long term (of course, the more growth the better!). Just this one seemingly simple criterion eliminates 99.99% of the options, because, strictly speaking, there is no one individual investment that we can be sure will meet this criterion, no matter how good it looks now. This is because companies are just like people:
 
->In the long run, we are all dead. -- John Maynard Keynes
+>In the long run, we are all dead. 
+> -- John Maynard Keynes
 
 So what should a regular investor do?
 
-### 2.3 A Long-term Perspective and Macro Observations
+### 2.3 A Long-term Perspective and Macro Observation
 
 Everyone can understand how difficult it is to pick the best possible investment, especially in the midst of price fluctuations. It's as difficult as a world champion archer standing on a boat being rocked by waves in the middle of the ocean hitting the bullseye on a target on the shore.
 
-Only investing in one investment also entails opportunity cost. Time and money are limited resources, and if you use them in one way you can't use them in another. So, if you invested in A but B performs better, the opportunity cost of your investment decision can be calculated. 
+Only investing in one investment also entails opportunity cost. Time and money are limited resources, and if you use them in one way you can't use them in another. So, if you invested in A but B performs better, the opportunity cost of your investment decision is quantifiable. 
 
 Fortunately, we have another simple, direct, brutal and effective solution:
 
@@ -522,7 +522,7 @@ Fortunately, we have another simple, direct, brutal and effective solution:
 
 This sounds a little bit crazy, and perhaps a bit stupid, but let's put aside whether it's actually crazy and/or stupid, and first ask: Is it possible to invest in everything? The answer is definitely yes! The [MSCI World Index](https://en.wikipedia.org/wiki/MSCI_World) tracks the price of 1,650 mid- and high-cap stocks in 23 developed countries. If we actually invested in this index, what would our results be?
 
->Note: It's possible to buy ETFs that track various world stock indexes. The iShares MSCI World ETF (NYSEARCA: [URTH](https://www.investopedia.com/markets/etfs/urth/)) tracks the MSCI World Index; the iShares MSCI ACWI ETF (NASDAQ: [ACWI](https://www.investopedia.com/markets/quote?tvwidgetsymbol=acwi)) tracks the MSCI All Country World Index, which includes emerging markets; and the Vanguard Total World Stock ETF (NYSEARCA: [VT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=vt)), tracks the FTSE Global All Cap World Index, which also includes developed and emerging markets.
+>Note: It's possible to buy ETFs that track various world stock indexes. The iShares MSCI World ETF (NYSEARCA: [URTH](https://www.investopedia.com/markets/etfs/urth/)) tracks the MSCI World Index; the iShares MSCI ACWI ETF (NASDAQ: [ACWI](https://www.investopedia.com/markets/quote?tvwidgetsymbol=acwi)) tracks the MSCI All Country World Index, which includes emerging markets; and the Vanguard Total World Stock ETF (NYSEARCA: [VT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=vt)) tracks the FTSE Global All Cap World Index, which also includes developed and emerging markets.
 
 ![Figure14](../images/Figure14.png)
 
@@ -534,7 +534,7 @@ An investment in a fund that tracks the MSCI World Index is like a bet on the gr
 
 >Note: The historical figures above are from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets; you can view the chart and data [here](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). 
 
-Investing in the S&P 500, with an average compound growth rate (ACGR) of 9%, performed better than investing in the MSCI World Index, which had an ACGR of 7.86%, but the MSCI Emerging Markets Index performed even better, with an ACGR of 10.37%. What's the easiest way to explain this?
+Investing in the S&P 500, with an annual compound growth rate (ACGR) of 9%, performed better than investing in the MSCI World Index, which had an ACGR of 7.86%, but the MSCI Emerging Markets Index performed even better, with an ACGR of 10.37%. What's the easiest way to explain this?
 
 > * The US grew faster than the world;
 > * emerging markets grew faster than the US.
@@ -543,19 +543,19 @@ Now we can see that, when we choosing investments, in addition to "one" (quite d
 
 >Choosing investments is like choosing a method of transportation. If you walk, you can still get there, it will just take longer. But if you have a bike you shouldn't walk, if you have a car you shouldn't bike, and if you have an airplane you shouldn't drive -- you should take whatever will get you there the fastest.
 
-We've seen that emerging markets develop faster, so it's easy, we can just choose the "emerging market part", right? Or could we just choose one fastest-growing country, or even just choose the fastest growing industry in that country? Sure! Choosing the market that is growing faster is just like choosing a faster method of transportation. 
+We've seen that emerging markets develop faster, so it's easy, we can just choose the "emerging market part", right? Or could we just choose one fastest-growing country, or even just choose the fastest growing industry in that country? Sure! Choosing a market that is growing faster is just like choosing a faster method of transportation. 
 
-It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World, wouldn't it? To take it a step further, it wouldn't be difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son) doesn't think it would be difficult:
+It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World Index, wouldn't it? To take it a step further, it wouldn't be that difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son) doesn't think it would be difficult:
 
->Making money is easy. All you need to have done is have invested in the Internet 20 years ago, because at that time the internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
+>Making money is easy. All you need to have done is invested in the Internet 20 years ago, because at that time the Internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
 
 Actually, I have already designed a no-load, no-management-fee index fund. The working name is "Odyssey", and it should be issued in the US in October of 2020. It will be made up of about 30 investments, all in listed companies in the US and China. There is only one selection criterion:
 
 >"Who has constantly growing user data?"
 
-I agree with Sun Zhengyi's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
+I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 
->No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
+>No matter how good the algorithm is, it needs data to feed it. Public companies with large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
 
 When I started to buy lots of bitcoin in 2011, many people thought I was crazy. They all said the same thing: "Isn't it too risky?" They felt like it was too risky, but I had the opposite feeling:
 
@@ -565,7 +565,7 @@ This was the logical reasoning behind this feeling:
 
 >We've seen the incredible changes brought about by the Internet allowing information to flow rapidly with basically zero cost, so what kind of incredible changes would be brought about if assets could also flow rapidly with basically zero cost?
 >
->After ten years, the Internet is still bringing about massive change. Even if it isn't exactly what we initially imagined, it's still amazing. In the same way, ten years from now the financial internet is extremely likely to have brought about incredible change, even if we can't know exactly what those changes will be...
+>After ten years, the Internet is still bringing about massive change. Even if it isn't exactly what we initially imagined, it's still amazing. In the same way, ten years from now the financial Internet is extremely likely to have brought about incredible change, even if we can't know exactly what those changes will be...
 
 So for me at the time, blockchain was the future, blockchain was a trend, and blockchain would likely be the fastest growing industry. Looking back from eight years later, it has become the fastest growing industry, and my investment has grown at a scale not even imaginable at the time.
 
@@ -583,7 +583,7 @@ The diagram below may make it easier to understand.
 
 ![Figure16](../images/Figure16.png)
 
-The largest circle represents the entire world, and you are standing in the middle holding a bow an arrow....
+The largest circle represents the entire world, and you are standing in the middle holding a bow and arrow....
 
 >You look around, hoping to find the best place to shoot your arrow. It's difficult, because in the entire circle there are limitless places to chose, and it's basically impossible for you to choose the best possible place and hit it from so far away...
 >
@@ -595,57 +595,57 @@ The largest circle represents the entire world, and you are standing in the midd
 >
 >You've already made three guesses: 1) a net might work better than an arrow; 2) certain regions might grow more rapidly than the whole; and 3) some sectors within those regions might grow even more rapidly. If you keep guessing, your accuracy will certainly suffer. So what should you do? Don't use an arrow, use a shotgun! This way, although your accuracy will suffer, you'll be more likely, and perhaps almost certain, to hit something. Anyway, since it's so far away, no one can be completely accurate, but after so many adjustments, you're more likely than others to be accurate!
 >
->In the end you have another discovery, which is that using an arrow is never the best choice...
+>In the end, you have another discovery, which is that using an arrow is never the best choice...
 
 Choosing a mix of multiple investments, rather than just one, has a powerful effect. The most famous example once again comes from Warren Buffet. In April of 2017, United Airlines had a [PR disaster](https://en.wikipedia.org/wiki/United_Express_Flight_3411_incident) on their hands when, after overselling a flight, they had 69-year-old David Dao dragged off of an aircraft. Quite a few of the media reports that followed were about Warren Buffett, because he owned a large amount of stock in United's parent company. The reports said that, since the company's stock had gone down 4%, losing more than \$1 billion in market value, Buffett had lost more than \$90 million. At the end of trading that day, the stock was down just over 1%, so Buffett's paper loss was around \$24 million. 
 
-But did Buffett really lose money? No. In addition to United, he also had stock in American Airlines, Delta Airlines, and Southwest Airlines. The stock prices of those three airlines all went *up* that day, giving Buffett an overall paper *gain* of \$1.4 billion on his airline stocks! Buffett's diversification in the airline sector insulated him from the price volatility of a single airline stock. Had Buffett not had diversified his holdings in the airline sector, the result would have been quite different!
+But did Buffett really lose money? No. In addition to United, he also had stock in American Airlines, Delta Airlines, and Southwest Airlines. The stock prices of those three airlines all went *up* that day, giving Buffett an overall paper *gain* of \$140 million on his airline stocks! Buffett's diversification in the airline sector insulated him from the price volatility of a single airline stock. Had Buffett not had diversified his holdings in the airline sector, the result would have been quite different!
 
-### 2.4 All Trends Have Bubbles
+### 2.4 Major Trends All Have Bubbles
 
-Words that have been paired most frequently with "bubble" include "tulip" and "Internet". In 2019, a new one has been added: "Artificial Intelligence". People are worried that that a global AI bubble is about to burst, even though just a year ago startups in the AI sector were the hottest in the world. On October 5, 2018, *Forbes* reported that there were 14 AI unicorns just in China (a "unicorn" is a startup with a valuation of over \$1 billion). In aggregate, these companies had valuations of over \$40 billion. A year previously, AI startups had been even hotter, with a report from Tsinghua University stating that 369 investments had been made in AI startups in China, with the total investment reaching \$27.7 billion.
+Words that have been paired most frequently with "bubble" include "tulip" and "Internet". In 2019, a new one has been added: "Artificial Intelligence". People are worried that that a global AI bubble is about to burst, even though just a year ago startups in the AI sector were the hottest in the world. On October 5th, 2018, *Forbes* reported that there were 14 AI unicorns just in China (a "unicorn" is a startup with a valuation of over \$1 billion). In aggregate, these companies had valuations of over \$40 billion. A year previously, AI startups had been even hotter, with a report from Tsinghua University stating that 369 investments had been made in AI startups in China, with the total investment reaching \$27.7 billion.
 
-But why are people suddenly worried about a bubble? It's because there has been a rash of negative news stories about the AI sector. For instance, it was reported that [Facebook](https://observer.com/2019/08/facebook-audio-transcription-scandal-ai-dilemma/) infringed on user privacy in order to develop their voice recognition system, and [IBM](https://www.technologyreview.com/f/613131/ibms-photo-scraping-scandal-shows-what-a-weird-bubble-ai-researchers-live-in/) used similar methods to develop their facial recognition system. AI has also been used for what some consider to be nefarious purposes, such as in the case of [Cambridge Analytica's](https://www.theguardian.com/technology/2018/apr/16/cambridge-analytica-scandal-highlights-need-for-ai-regulation) use of Facebook user data in the US elections, and [Amazon's](https://futurism.com/amazon-ai-fire-workers) use of AI to fire low-productivity workers.
+But why are people suddenly worried about a bubble? It's because there has been a rash of negative news stories about the AI sector. For instance, it was reported that [Facebook](https://observer.com/2019/08/facebook-audio-transcription-scandal-ai-dilemma/) infringed on user privacy in order to develop their voice recognition system, and that [IBM](https://www.technologyreview.com/f/613131/ibms-photo-scraping-scandal-shows-what-a-weird-bubble-ai-researchers-live-in/) used similar methods to develop their facial recognition system. AI has also been used for what some consider to be nefarious purposes, such as in the case of [Cambridge Analytica's](https://www.theguardian.com/technology/2018/apr/16/cambridge-analytica-scandal-highlights-need-for-ai-regulation) use of Facebook user data in the US elections, and [Amazon's](https://futurism.com/amazon-ai-fire-workers) use of AI to fire low-productivity workers.
 
 Perhaps the silliest story was about Kiwi Campus, a startup founded at UC-Berkeley in 2017 that makes robots, called Kiwibots, that deliver food on campuses. It has received multiple rounds of funding, and its CEO received an entrepreneurship award from MIT in 2018. In the summer of 2018, however, it was reported that the "AI robots" were actually being controlled remotely by students in Columbia being paid \$2 an hour.
 
-The AI sector seems too hot. With startups raising too much money, unclear valuation methods, and frequent issues with applications, it's hard not to be reminded of the Internet bubble. So, of course, people start to worry that there may be an AI bubble that could burst...
+The AI sector seems too hot. With startups raising too much money, unclear valuation methods, and frequent issues with applications of the technology, it's hard not to be reminded of the Internet bubble. So, of course, people start to worry that there may be an AI bubble that could burst...
 
 But is it such a bad thing for a bubble to burst?
 
 ![Figure17](../images/Figure17.png)
 
-Let's take another look at the historical price chart for the S&P 500. The two red circles indicate the peak of the Internet bubble in 2000 and the peak of the housing bubble that let to the financial crisis in 2008. If we were living in the world of 2000 to 2003, it would seem to be a terrible winter for the Internet, with companies going bankrupt and dissolving. From our vantage point in 2019, however we can see that from 2000 to 2019 the Internet developed from being the world of a few to being everyone's world. According to the World Bank, in 2000 only 1.8% of people in China were online; by 2019, WeChat --  just one app -- had over [1.1 billion users](https://new.qq.com/omn/20190516/20190516A0AY8B.html). This is the story of the Internet in China -- from 1.8% of the population using the Internet to 70% of people using just one app in around 20 years. Long-term trends can take a while, but they are quite powerful!
+Let's take another look at the historical price chart for the S&P 500. The two red circles indicate the peak of the Internet bubble in 2000 and the peak of the housing bubble that led to the financial crisis in 2008. If we were living in the world of 2000 to 2003, it would seem to be a terrible winter for the Internet, with companies going bankrupt and dissolving. From our vantage point in 2019, however, we can see that from 2000 to 2019 the Internet grew from being the world of a few to being everyone's world. According to the World Bank, in 2000 only 1.8% of people in China were online; by 2019, WeChat --  just one app -- had over [1.1 billion users](https://new.qq.com/omn/20190516/20190516A0AY8B.html). This is the story of the Internet in China -- from 1.8% of the population using the Internet to 70% of people using just one app in around 20 years. Long-term trends can take a while, but they are quite powerful!
 
 For regular investors, even if we entered the market at the height of the bubble in 2000, looking back after two full cycles, in 2015, our entry point still looks like a "low" price. It turns out that the secret to "buy low, sell high" is quite simple:
 
 >Wait for a long time after you buy before you sell.
 
-So is the popping of the AI bubble a good thing or a bad thing? It's hard to say for others, but for regular investors a bubble popping is always a good thing. In fact, **the popping of a bubble might be a great opportunity for a regular investor to enter the market.**
+So is the popping of the AI bubble a good thing or a bad thing? It's hard to say for others, but for regular investors a bubble popping is always a good thing. In fact, **the popping of a bubble may be a great opportunity for a regular investor to enter the market.**
 
 If we look back over history, industries representing all great trends went through bubbles. The difference between the tulip bubble and the Internet bubble was that, while tulips were not completely without value, there was no way for their value to grow sustainably. The Internet, however, had a value that could grow over time. All the way through the Internet bubble the Internet was growing, creating value, and changing the world. 
 
-Why do all great trends go through a bubble? The best explanation comes from John Fisher's [Transition Curve](https://www.ucd.ie/t4cms/Transition%20Curve%20Cranfield%20Article.pdf): 
+Why do all great trends go through bubbles? The best explanation comes from John Fisher's [Transition Curve](https://www.ucd.ie/t4cms/Transition%20Curve%20Cranfield%20Article.pdf): 
 
 ![Figure18](../images/Figure18.png)
 
-When going through a transition, after some initial anxiety, people feel happy because they think that, "At last something's going to change!" But then they often enter into a myriad of negative emotions. Some people deny the negative emotions, and then crash later, while some slowly fall into feelings of fear, guilt and even depression. While some eventually give up, others slowing begin to accept and adapt to the change. But this only happens after a long process.
+When going through a transition, after some initial anxiety, people feel happy because they think that, "At last something's going to change!" But then they often begin to experience a myriad of negative emotions. Some people deny the negative emotions, and then crash later on, while some slowly fall into feelings of fear, guilt and even depression. While some eventually give up, others slowly begin to accept and adapt to the change. But this only happens after a long process.
 
 Major trends, which become apparent after many years, must initially go through the process of acceptance described above. The first crest in the curve is the cause of the bubble, and the ensuing trough is the reason for the bubble bursting. This is shown most clearly in the markets, because the market price at each moment is a representation of everyone in the market's collective understanding of an investment. When people are feeling disillusioned, the bubble pops.
 
-So, contrary to what most people think, the popping of a bubble quite possibly represents opportunity. Whether or not there is actually an opportunity depends on whether or not the object of the bubble has long-term sustainable value and growth potential. If it does, then there is an opportunity. Furthermore, it is possible that bubbles may continue to occur until its value has been fully realized.
+So, contrary to what most people think, the popping of a bubble quite possibly represents opportunity. Whether or not there actually is an opportunity depends on whether or not the object of the bubble has long-term sustainable value and growth potential. If it does, then there is an opportunity. It's possible, though, that bubbles may continue to occur until its value has been fully realized.
 
-After reaching an all-time high of \$19,800 in December of 2017, bitcoin entered a long bear market. As of October of 2019, it remains in a bear market, with its price less than 43% of its all-time high. But is the popping of this bubble different from the popping of previous bubbles in the bitcoin market? Since its inception, bitcoin has been pronounced dead [337 times](https://99bitcoins.com/bitcoin-obituaries/) (as of October 11th, 2019). Each short bull market has been called a bubble, and they have all popped, but the popping of the bubble in 2017 has one difference from previous bubbles:
+After reaching an all-time high of \$19,800 in December of 2017, bitcoin entered a long bear market. As of October 2019, it remains in a bear market, with its price less than 43% of its all-time high. But is the popping of this bubble different from the popping of previous bubbles in the bitcoin market? As of October 11th, 2019, bitcoin had been pronounced dead [337 times](https://99bitcoins.com/bitcoin-obituaries/) since its inception. Each short bull market has been called a bubble, and they have all popped, but the popping of the bubble in 2017 has one difference from previous bubbles:
 
 >No one denies bitcoin's value. 
 
-This is an extremely important, if subtle, difference. I have a very simple, direct, brutal and effective way to determine if a trend is established: 
+This is an extremely important, if subtle, difference. I have a very simple, direct, brutal and effective way to determine if a trend has been established: 
 
 >Don't look at how many people have already accepted it, look to see if most people can no longer deny it.
 
 **Undeniability** is an important sign of an established trend. It doesn't matter whether or not they understand it, or whether or not they accept it. If they can't deny it, then the trend has basically already "filled up the bubble". This is the best signal for regular investors to decide when to enter the market. This is why I didn't introduce BOX, my no-load, no-management-fee blockchain ETF, until July of 2019, even though my thinking about and designs for a blockchain ETF began in 2015.
 
-It's important to point out that most novice investors fall into the trap of "looking for the next...". Actually, very few people succeed by choosing carefully and holding over the long term (whether through regular investing or not), and the vast majority of people never make deep macro observations from a long-term perspective, but everyone is jealous of those who have already succeeded, so they can't help but thinking:
+It's important to point out that most novice investors fall into the trap of "looking for the next...". Actually, very few people succeed by choosing carefully and holding over the long term (whether through regular investing or not), and the vast majority of people never make deep macro observations from a long-term perspective, but everyone is jealous of those who have already succeeded, so they can't help but think:
 
 >If only I had also chosen correctly that early!
 
@@ -655,7 +655,7 @@ But it's hard for that thought not to evolve into this next thought:
 
 This is a dangerous thought, especially for novice investors! The problem is, the more of a novice one is, the stronger this thought is. Just ask yourself, have you had this thought? Then ask yourself again, didn't you have this thought as soon as you started investing? Doesn't this thought always make you feel anxious?
 
-There are lots of details that those who are about to fall into this trap don't know. For instance, there are actually quite few major trends that will really change the world. Also, if a new major trend does appear, it will probably be years from now, rather than right now or in the immediate future. More importantly, the development of a great trend that has already been identified will continue for a long time with increasingly rapid growth. Actually, "this one" is much more realistic than "the next one".
+There are lots of details that those who are about to fall into this trap don't know. For instance, there are actually very few major trends that will really change the world. Also, if a new major trend does appear, it will probably be years from now, rather than right now or in the immediate future. More importantly, the development of a great trend that has already been identified will continue for a long time with increasingly rapid growth. Actually, "this one" is much more realistic than "the next one".
 
 If we're able to grab on to one major trend in our lifetime, we're already very lucky!
 
@@ -665,7 +665,7 @@ Choices are the most important thing, especially in investing. If we review what
 
 > * One or everything (global)
 > * The best parts (regions)
-> * The best parts of the best parts (sector)
+> * The best parts of the best parts (sectors)
 > * A combination of the best investments in the best parts of the best parts
 
 It's a lot of decisions, but they are easy to summarize. All of them are decisions about **trends**. Not choosing just one investment, but stepping back and choosing to invest in everything, is done in order to reduce risk and **keep up with the global trend**. In this case, *alpha* is zero. Choosing the best parts of the whole is done in order to find the parts that are developing the fastest, and in doing so create positive *alpha*. Choosing the best parts of the best parts is done to create even higher *alpha* by following trends. Finally, choosing combinations of investements in the best parts of the best parts is pursuing the same goal: first reduce risk, and then see if it is possible to increase *alpha*.
@@ -678,7 +678,7 @@ Below, I will take BOX as an example, because it is a combination of investments
 
 > **Risk Warning** 
 
-> The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
+> The strategy of regular investing is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
 >
 > This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
 >
@@ -692,21 +692,21 @@ After eight years of observation, thinking and practice, I think that blockchain
 
 >Trusted ledger (BTC) → Trusted platform for code (ETH/EOS) → Trusted execution environment (Mixin) → Trusted hardware (?) ...
 
-[Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is a open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create an open, transparent, immutable, distributed digital assets storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
+[Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is a open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create an open, transparent, immutable, distributed digital asset storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
 
 The reasons for not choosing Ethereum are technical. It currently uses a [Proof-of Work (PoW)](https://en.wikipedia.org/wiki/Proof_of_work) consensus mechanism, and this type of consensus mechanism, which measures confirmations in minutes, is fundamentally unsuitable for an application platform. Ethereum's experience over the past three years has shown that this flaw cannot be resolved in a PoW system. Even if Ethereum switches to a Proof-of-Stake (PoS) system, it will necessarily require a hard fork. Ethereum already underwent a poorly considered hard fork in 2017 that gave birth to Ethereum Classic, which has no clear use case. All of this is to say that investors in Ethereum are faced with a great amount of risk.
 
-There is one final reason why I chose these investments. From their inception until they are widely accepted, almost all technologies go through her following three stages:
+There is one final reason why I chose these investments. From inception until they are widely accepted, almost all technologies go through the following three stages:
 
 >Inception → Adoption by businesses (2B) → Adoption by individuals (2C)
 
-From this perspective, EOS is a blockchain platform for businesses, and Mixin Network's first dApp, Mixin Messenger, is a platform for individuals. One of Mixin Messenger's most important components, which is a base-layer feature of Mixin Network's public chain, is a distributed, multi-coin wallet with the best user experience in the industry. 
+From this perspective, EOS is a blockchain platform for businesses, and Mixin Network's first dApp, Mixin Messenger, is a platform for individuals. One of Mixin Messenger's most important components -- in fact it is a base-layer feature of Mixin Network's public chain -- is a distributed, multi-coin wallet with the best user experience in the industry. 
 
-Furthermore, these three investments have reached the "undeniable" stage. They of course haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
+Furthermore, these three investments have reached the "undeniable" stage. Of course they haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
 
-Let's take Odyssey, the no-load, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned it in a previous chapter:
+Let's take Odyssey, the no-load, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned in a previous chapter:
 
->I agree with Sun Zhengyi's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
+>I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 >
 >>No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
 
@@ -714,11 +714,11 @@ The main point is in this sentence:
 
 >Most algorithm companies will in the end be used by large companies with data.
 
-This sentence is making a judgment about an obvious trend that is in accordance with the trend. In this sector, this will definitely happen, so we should be prepared in advance.
+This sentence is making a judgment about an obvious trend that is itself in accordance with the trend. In this sector, this will definitely happen, so we should be prepared in advance.
 
 There has long been debate in the investment world about whether *alpha* -- results that beat the market -- actually exists, even though rare investors such as Warren Buffet, Joel Greenblatt and Ray Dalio have consistently beaten the market over the long term. There's a joke that shows the silliness of blind adherents to "efficient market theory":
 
->A student saw a hundred dollar bill on the ground and exclaimed to his professor, "Look! Is that a hundred dollar bill?" The professor didn't even deign to look, and said, "That's impossible! If it were really a hundred dollar bill, somebody would have picked it up a long time ago."
+>A student saw a hundred dollar bill on the ground and exclaimed to his professor, "Look! Is that a hundred dollar bill?" The professor didn't even deign to look, saying, "That's impossible! If it were really a hundred dollar bill, somebody would have picked it up a long time ago."
 
 If the market were 100% efficient, then *alpha* could not exist. The problem is that, if we look at any given moment in the market in isolation, it's 100% inefficient. Price and value sometimes matching up doesn't mean anything -- a broken clock is right twice a day! If we put all of the individual moments back together, then over the long term the market should be efficient, but how long is long term? No one knows. If we look at it from the perspective of a regular investor, after two full cycles, the variance between the current price and the historical price at any given moment will seem even greater.
 
@@ -750,9 +750,9 @@ In his book, [*The Success Equation: Untangling Skill and Luck in Business, Spor
 
 Activities on the far right, such as chess, depend 100% on skill, and there is essentially no luck involved. Activities on the far left, such as playing slot machines, depend 100% on luck, and there is essentially no skill involved. Most of the rest of the activities in the image depend on some mixture of luck and skill. So in most situations, if you want to be hugely successful, you have to be more skillful than others and also get lucky. Investing, however, is on the left side of the picture, implying that luck is more important than skill. In fact, luck is much more important than skill, which is why so many smart people end up being unsuccessful in the trading markets.
 
-However, since there are many different types of investment, we need to slightly adjust Mauboussin's placement of investment in the image. For example, long-term holding and frequent trading are clearly completely different. Also, carefully selecting assets to hold over the long term is generally acknowledged to be a successful strategy. If someone doesn't believe this, just show them [the chart of the S&P 500 over the past several decades](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). Regular investing is at its core simply an improvement to the strategy of carefully selecting assets to hold over the long term. Since it hardly depends on any luck, this type of investment should actually be on the right side of the image.
+However, since there are many different types of investing, we need to slightly adjust Mauboussin's placement of investing in the image. For example, long-term holding and frequent trading are clearly completely different. Also, carefully selecting assets to hold over the long term is generally acknowledged to be a successful strategy. If someone doesn't believe this, just show them [the chart of the S&P 500 over the past several decades](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). Regular investing is at its core simply an improvement to the strategy of carefully selecting assets to hold over the long term. Since it hardly depends on any luck, this type of investment should actually be on the right side of the image.
 
-Regular investors do only one thing:
+Regular investors only do one thing:
 
 > Buy. 
 
@@ -760,17 +760,17 @@ Regular investing seems so simple that most people will initially doubt its effe
 
 But please take note: **the power of regular investing comes precisely from the fact that it only involves doing one thing**. This is because doing only one thing means that regular investors have no room to make mistakes by doing other things, which ensures that *gamma* is 0. All you have to do is buy. In the future you will understand that doing other things is a mistake that may greatly increase *gamma*. 
 
-What about the people who think they have all sorts of tricks? If we look at it logically, we will see where their weaknesses are.
+What about people who think they have all sorts of tricks? If we look at it logically, we will see where their weaknesses are.
 
 For example, we know that regular investors only do one thing: buy. And those with lots of tricks? They want to carry out the well-known secret strategy of "buy low and sell high", so they need to buy when they should buy, and then sell when they should sell. The problem is, when should they **really** buy? They don't know for sure, and each time they buy it's only when they **think** they should.
 
 To take it a step further, these frequent traders are missing a key point: in order for their strategy to work, being right just once isn't enough -- they have to be right **twice**. They must buy when the price is really low and sell when the price is really high. It's the combination of these two trades that will produce the result they're hoping for. If they only get one of the steps right, their effort was all for naught. 
 
-If they were able to be right every time, buying when they should and selling when they should through multiple trades, then that would be great! But without help from some higher being, they've basically got about a 50% chance of selling when they should buy and buying when they should sell. They just added one thing (trying to buy low and sell high), and their chances of success have dropped from 100% to 25%.
+If they were able to be right every time, buying when they should and selling when they should across multiple trades, then that would be great! But without help from some higher being, they've basically got about a 50% chance of selling when they should buy and buying when they should sell. They just added one thing (trying to buy low and sell high), and their chances of success have dropped from 100% to 25%.
 
 Regular investors are different. Each time they buy they are "buying low", because, if they eventually decide to sell after two or more full cycles, the price that they initially bought at will always seem cheap. See? That well-known secret of "buy low and sell high" is always working for regular investors.
 
-Frequent traders are definitely not willing to concede. "How could I have a 50% chance of making a mistake?!" Alright, let's say you have an 80% chance of being right. Actually, you have to be right twice in a row, so your chances of success are only 80% x 80% = 64%. That's still much lower than 100%! Furthermore, if you have actually tried investing using your own money, you know that being right 80% of the time is incredibly unlikely. If you're right even 60% of the time you can be considered an expert! And if you're right 60% of the time, your chances of being right twice in a row drop to 36%. This explains why the vast majority of investors end up thinking that every action they took was wrong. Once you understand that short-term price movements are an unpredictable ["random walk"](https://en.wikipedia.org/wiki/Random_walk_hypothesis), you will understand why the chances of success are really 50% x 50% = 25%. No more no less.
+Frequent traders are definitely not willing to concede this point. "How could I have a 50% chance of making a mistake?!" Alright, let's say you have an 80% chance of being right. Actually, you have to be right twice in a row, so your chances of success are only 80% x 80% = 64%. That's still much lower than 100%! Furthermore, if you have actually tried investing using your own money, you know that being right 80% of the time is incredibly unlikely. If you're right even 60% of the time you can be considered an expert! And if you're right 60% of the time, your chances of being right twice in a row drop to 36%. This explains why the vast majority of investors end up thinking that every action they took was wrong. Once you understand that short-term price movements are an unpredictable ["random walk"](https://en.wikipedia.org/wiki/Random_walk_hypothesis), you will understand why the chances of success are really 50% x 50% = 25%. No more no less.
 
 But we're not done yet! Another hidden and serious detail has been been left out. Frequent traders don't understand that what they are depending on is **judgement after the fact**. Putting aside whether their judgement is correct or not, by the time they realize something, and think, "Oh, this must be an upward trend", they've already missed a portion of the rise in price. And by the time they realize, "Oh, this looks like a downward trend", they can't avoid having participated in some of the drop in price. 
 
@@ -778,7 +778,7 @@ But we're not done yet! Another hidden and serious detail has been been left out
 
 This phenomenon is easy to see in the picture above. Even for the 25% of the time that they are right twice in a row, they actually only make about a third of the profit that they think they should. In their imagination, they buy at A and sell at B, but because their judgement of the short-term trend is actually made after the fact, they actually buy at A' and sell at B'.
 
->Just as an aside, the core problem with [momentum investing](https://en.wikipedia.org/wiki/Momentum_investing), which many people seem to fall in love with, is basically the same. Since you can only base decisions on judgments after the fact, even if you do everything right your gains are smaller than you had imagined. 
+>Just as an aside, the core problem with [momentum investing](https://en.wikipedia.org/wiki/Momentum_investing), which many people seem to fall in love with, is basically the same. Since you can only base decisions on judgments after the fact, even if you do everything right your gains are still smaller than you had imagined. 
 
 But there's still more! Another detail that must be considered is that the chance of guessing right is actually much lower than 50%, because in addition to **going up** or **going down**, the price could **stay the same**. So our odds of guessing correctly are actually 1/3 instead of 1/2, and our chances of guessing correctly twice in a row are even more startling: 1/3 x 1/3 = 11.11%...
 
@@ -790,15 +790,15 @@ This is why most investors who are truly able to reflect on their behavior after
 
 >Everything I tried to do was wrong.
 
-Their conclusion is not incorrect, because the more things they did the more likely they were to be wrong, and it all happened without their being aware of it. They didn't know that all of their short-term trading strategies depended on luck; they didn't know whether their strategies were really effective; they didn't know that they had to be right twice in a row to be successful; they didn't know that they were missing two thirds of their potential profits because they were making judgements after the fact; and they definitely didn't know that there is a cost to turning even correct knowledge into action. In the face of these factors, even the fees that Warren Buffett has called "vampires", because they can kill your returns, don't seem so scary.
+Their conclusion is not incorrect, because the more things they did the more likely they were to be wrong, and it all happened without their being aware of it. They didn't know that all of their short-term trading strategies depended on luck; they didn't know whether their strategies were really effective; they didn't know that they had to be right twice in a row to be successful; they didn't know that they were missing two thirds of their potential profits because they were making judgements after the fact; and they definitely didn't know that there is a cost to turning even correct knowledge into action. In the face of these factors, even the fees that Warren Buffett has called "vampires" -- because they can kill your returns -- don't seem so scary.
 
-Behavioral economist [Meir Statman](https://www.scu.edu/business/finance/faculty/statman/) once referred to a Swedish study which showed, based on figures from 19 stock exchanges, that accounts that traded frequently lost an average of 1.9%-4% per year. A [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=219228) by Brad Barber and Terrance Odean showed that men traded 45% more frequently than women, and that men have 1.4% lower yearly returns. Single men traded 67% more frequently than women, and had 2.3% lower returns. A study by [Vanguard](https://investor.vanguard.com/corporate-portal/) discovered that the returns of accounts that frequently changed strategies lagged far behind those of accounts that never changed strategies (see Chapter 2 of Daniel Crosby's [*The Behavioral Investor*](https://www.amazon.com/dp/B07HH99WH8/)).
+Behavioral economist [Meir Statman](https://www.scu.edu/business/finance/faculty/statman/) once referred to a Swedish study which showed, based on figures from 19 stock exchanges, that accounts which traded frequently lost an average of 1.9%-4% per year. A [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=219228) by Brad Barber and Terrance Odean showed that men traded 45% more frequently than women, and that men had 1.4% lower yearly returns. Single men traded 67% more frequently than women, and had 2.3% lower returns. A study by [Vanguard](https://investor.vanguard.com/corporate-portal/) discovered that the returns of accounts that frequently changed strategies lagged far behind those of accounts that never changed strategies (see Chapter 2 of Daniel Crosby's [*The Behavioral Investor*](https://www.amazon.com/dp/B07HH99WH8/)).
 
-Based on the figures above, frequent traders will likely have a *gamma* of at least 2%, whereas, had they just bought and held, their *gamma* would have been 0. Don't underestimate this 2%, because over 30 years a *gamma* of 2% will cost you 45% of your returns! So we can see that regular investing is the best strategy of **winning without fighting**.
+Based on the figures above, frequent traders will likely have a *gamma* of at least 2%, whereas, had they just bought and held, their *gamma* would have been 0. Don't underestimate this 2%, because over 30 years a *gamma* of 2% will cost you 45% of your returns! So we can see that regular investing is the best strategy for **winning without fighting**.
 
 ### 3.2 Don't Miss It!
 
-October 19th, 1987, is known as "[Black Monday](https://en.wikipedia.org/wiki/Black_Monday)". On that day the Dow Jones Industrial Average suddenly crashed. From the beginning of the year it had risen 38%, but that day it dropped **22.6%**, and people around the world went into a panic as they watched the crash live on television. Before this, never had so many people watched such a disaster unfold on live television.
+October 19th, 1987, is known as "[Black Monday](https://en.wikipedia.org/wiki/Black_Monday)". On that day the Dow Jones Industrial Average suddenly crashed. It had risen 38% since the beginning of the year, but that day it dropped **22.6%**, and people around the world went into a panic as they watched the crash live on television. Before this, never had so many people watched such a disaster unfold on live television.
 
 ![Figure21](../images/Figure21.png)
 
@@ -806,21 +806,21 @@ The Black Monday crash, which started in Hong Kong and spread to the rest of the
 
 If there is a heaven there is also a hell. Or, to put it another way, without the existence of such a terrible hell, people wouldn't have such a yearning for heaven.
 
-People can't help but think, "Wouldn't it be great if I could successfully avoid the worst days of the stock market?" It wouldn't just be great, it would be fantastic! In his 2009 paper "[Black swans, market timing and the Dow](https://pdfs.semanticscholar.org/9c64/3d7ed23a1ecdb862a169ff8654e9d1fd15ef.pdf)", IESE Professor [Javier Estrada](https://www.iese.edu/faculty-research/faculty/javier-estrada/) calculated that, if you were able to avoid the **ten** worst days in the market from 1900 to 2006, your returns would increase **206%**!
+People can't help but think, "Wouldn't it be great if I could successfully avoid the worst days of the stock market?" It wouldn't just be great, it would be fantastic! In his 2009 paper "[Black swans, market timing and the Dow](https://pdfs.semanticscholar.org/9c64/3d7ed23a1ecdb862a169ff8654e9d1fd15ef.pdf)", IESE Professor [Javier Estrada](https://www.iese.edu/faculty-research/faculty/javier-estrada/) calculated that, if you had been able to avoid the **ten** worst days in the market from 1900 to 2006, your returns would have increased by **206%**!
 
 ![Figure22](../images/Figure22.png)
 
 Of course, I hope you've also realized the following fact: there is no way to successfully avoid all of the worst days. It's just like how there will always be some rainy days when you forget to bring an umbrella.
 
-Even if you really were able to avoid all of the worst days, you would be faced with another uncomfortable fact:
+Even if you actually were able to avoid all of the worst days, you would be faced with another uncomfortable fact:
 
 >The best days often fall very close to the worst days. 
 
-If you really avoided all of the worst days, then you would almost certainly also "avoid" some of the best. days. In the [following chart](https://theirrelevantinvestor.com/2019/02/08/miss-the-worst-days-miss-the-best-days/) from [The Irrelevant Investor](http://theirrelevantinvestor.com), the red dots mark the worst days, and the green dots mark the best days. 
+If you really avoided all of the worst days, then you would almost certainly also "avoid" some of the best days. In the [following chart](https://theirrelevantinvestor.com/2019/02/08/miss-the-worst-days-miss-the-best-days/) from *[The Irrelevant Investor](http://theirrelevantinvestor.com)*, the red dots mark the worst days, and the green dots mark the best days. 
 
 ![Figure23](../images/Figure23.png)
 
-According to JP Morgan's [statistics](https://www.businessinsider.com/cost-of-missing-10-best-days-in-sp-500-2015-3), *six* of the ten best days in the stock market occurred within two weeks of the best ten days. Now, if you missed the best ten days of a ten year period, what would the influence your returns be?
+According to [statistics](https://www.businessinsider.com/cost-of-missing-10-best-days-in-sp-500-2015-3) from JP Morgan, *six* of the ten best days in the stock market occurred within two weeks of the worst ten days. Now, if you missed the best ten days of a ten year period, what would the influence on your returns be?
 
 ![Figure24](../images/Figure24.png)
 
@@ -830,13 +830,13 @@ If you missed the best ten days, you would lose *66%* of your returns, which is 
 
 So, what should we do? We should do nothing! Never underestimate the power of the Daoist concept of "doing nothing". Actually, it's hard to find a better example than the the trading markets to illustrate its power.
 
-Scary headlines attract more eyeballs, so the media makes a bigger deal of large price drops than it does of large increases. The media always prefers to report bad news instead of good news. Aside from the fact that bad news attracts more viewers and readership, reporting bad news is also a better fit for the media's self image. After all, if the media reports good news about a person or company, people tend to suspect that they are kissing up to someone. The April 2017 event on the United Airlines flight (bad news) was widely reported, and stories about Warren Buffett losing \$20 million on his United stock (bad news) were all over the place, but no one wrote an article about how Warren Buffett's overall airline stock holdings rose by more than \$100 million that day.
+Scary headlines attract more eyeballs, so the media makes a bigger deal of large price drops than it does of large increases. The media always prefers to report bad news instead of good news. Aside from the fact that bad news attracts more viewers and readership, reporting bad news is also a better fit for the media's self image. After all, if the media reports good news about a person or company, people tend to suspect that they are kissing up to someone. The April 2017 event on the United Airlines flight (bad news) was widely reported, and stories about Warren Buffett losing \$20 million on his United stock (bad news) were all over the place, but no one wrote an article about how Warren Buffett's overall airline stock holdings rose by more than \$140 million that day.
 
 Frequent traders always seem to make a big deal out of nothing. This is understandable, because they are always looking at price fluctuations, so their mood fluctuations are much more extreme than long-term holders. Whenever prices go down, you will see them in chat groups and forums all over the Internet screaming, "It's crashing!" But when the price goes back up just as much, they seem to have disappeared. Why is this?
 
 Behavioral psychologists would explain it this way: people hate loss, and the pain of losing a dollar is much greater than the pleasure of gaining a dollar, so even when the price goes up just as much, those people don't get as excited. This explanation makes sense, but I also have another more realistic explanation:
 
->The people running around screaming "crash!" can't handle the price dropping. They almost certainly were so terrified that they sold all of their holdings after the price dropped. When they price went back up, they'd either lost all of their money or exited the market, so they didn't have anything to get excited about. Just like in a ghost story, if they were screaming in another world, the people in this world had no way to hear them.
+>The people running around screaming "crash!" can't handle the price dropping. They were almost certainly so terrified that they sold all of their holdings after the price dropped. When they price went back up, they'd either lost all of their money or exited the market, so they didn't have anything to get excited about. Just like in a ghost story, it's as if they were screaming in another world, and the people in this world had no way to hear them.
 
 The vast majority of people who jump into the market for the first time don't understand investing strategy. Actually, they don't have any strategy, and their reason for entering the market is that they have seen the good days that others have had. But the core reason why most people end up quietly leaving the market is that there are always more bad days than good. The reason why the market still goes up in the long term, despite having more bad days than good, is that, in aggregate, the gains of the good days greatly exceed the losses of the bad days. The problem is that most people have a natural tendency to want to make decisions based on current events, and it's only the few people who have received good education about investing and practiced it over the long term who are able to truly gain the skill of macro observation based on a long-term perspective.
 
@@ -845,13 +845,13 @@ Success in regular investing depends primarily on the following factors:
 > * the careful choice of an investment;
 > * the complete execution of the regular investing plan.
 
-Regular investing is an excellent strategy. It's simple, direct, brutal and effective. However, it's rare to see people become successful by using it. One reason is that novices who have just entered the market are often unable to choose the best investment, so in most situations the best they can do is blindly follow the advice of truly successful investors who have shown excellent returns over the **long term**. They know that this is the only way for them to get more *alpha*. Unfortunately, those who choose to do this also have an inherent weakness, which is that, because they are actually ignorant, they can't be resolute. Just like when someone is driving and always feels like their own lane is moving too slowly, so they switch to the other lane, but then find out that their original lane was actually the fastest. 
+Regular investing is an excellent strategy. It's simple, direct, brutal and effective. However, it's rare to see people become successful by using it. One reason is that novices who have just entered the market are often unable to choose the best investment, so in most situations the best they can do is blindly follow the advice of truly successful investors who have shown excellent returns over the **long term**. They know that this is the only way for them to get more *alpha*. Unfortunately, those who choose to do this also have an inherent weakness, which is that, because they are actually ignorant, they can't be resolute. It's just like when someone is driving and always feels like their own lane is moving too slowly, so they switch to the other lane, but then find out that their original lane was actually the fastest. 
 
 Since all that regular investors do is buy, they definitely experience all of the bad days, including the worst days. However, precisely because of this, they also don't miss any of the good days. Again, the reason regular investing is effective is that it is naturally 100% in accordance with reality.
 
 ### 3.3 Investing is Not Normal Business
 
-Most investors do not realize until very late in the game that investing is vastly different from other types of business. Most investors, like normal businessmen, love to use the concept of "cost". Every day they compare the present value of their assets in hand to their "cost", and determine their gains or rate of return. Doing this has a strong effect on the fluctuations of their mood.
+Most investors do not realize until very late in the game that investing is vastly different from other types of business. Most investors, like normal businesspeople, love to use the concept of "cost". Every day they compare the present value of their assets to their "cost", and determine their gains or rate of return. Doing this has a strong effect on the fluctuations of their mood.
 
 Most businesses that we see in daily life do calculate their gains in this way. For instance, when starting a restaurant you have your setup costs and your daily expenses. Your setup costs must be amortized over time, and those costs and your daily expenses must be subtracted from your daily revenue to determine your profit. If your business does better and better, one day you will have accumulated enough profits to open up a new restaurant, and you will be very excited, because if things keep going that way you will be able to continue to expand.
 
@@ -883,25 +883,25 @@ There is another important thing to remember:
 
 >Many people underestimate or ignore the possibility of something unexpected happening in their lives. 
 
-But life is actually full of unexpected events, so your life costs are always much higher than your worst estimates. How much money should you use to invest? People often ask, "Is it enough if I invest 10% of my income?" For this question, though, using percentages often won't help us reach a meaningful conclusion.
+But life is actually full of unexpected events, so your living costs are always much higher than your worst estimates. How much money should you use to invest? People often ask, "Is it enough if I invest 10% of my income?" For this question, though, often using percentages won't help us reach a meaningful conclusion.
 
 ![Figure26](../images/Figure26.png)
 
 Imagine that your money is an egg.
 
 > * The yolk represents your daily expenses.
-> * The egg white represents your savings you have prepared to deal with risk.
+> * The egg white represents the savings you have prepared to deal with risk.
 > * The shell represents the money you have to invest, which can stay in the market no matter what over the next two full cycles.
 
-A lot of people fail at investing not because of their intellect, confidence, or resolve, but because they underestimated the cost of unexpected events in their lives. That is to say, they hadn't imagined that the egg white was so thick. For instance, their tooth fell out, a relative came down with a terminal illness, they were in a car accident, or their child made an expensive mistake. There are countless examples, but suffice it to say that unexpected events come in many shapes and sizes, and they can be very expensive.
+A lot of people fail at investing not because of their intellect, confidence, or resolve, but because they underestimate the cost of unexpected events in their lives. That is to say, they fail to imagine that the egg white is so thick. For instance, their tooth falls out, a relative comes down with a terminal illness, they are in a car accident, or their child makes an expensive mistake. There are countless examples, but suffice it to say that unexpected events come in many shapes and sizes, and they can be very expensive.
 
 This explains why it doesn't help to talk in percentages. For example, you have \$100,000, and you invest 10%. Then, before one full cycle has even passed, you have an unexpected expense of \$200,000, and your \$10,000 has already shrunk. What do you do?
 
-After being in the market for a period of time, all investors come the same deep understanding:
+After being in the market for a period of time, all investors come to the same deep understanding:
 
 >Every time you want to sell an investment for cash the price will always fall. 
 
-What is the cause of this unintuitive phenomenon? One cause is that bear markets are always longer than bull markets. Also, when you really need money it's usually when it's hard to make money outside of the market, which implies a weaker economy, so it's natural for the market to fall. Another factor at work is that when the price is rising you're less welling to sell. At times like that, longer-term holders don't have a strong impulse to spend. So the greatest losses always come when you "can't help but sell".
+What is the cause of this counterintuitive phenomenon? One cause is that bear markets are always longer than bull markets. Also, when you really need money it's usually when it's hard to make money outside of the market, which implies a weaker economy, so it's natural for the market to fall. Another factor at work is that when the price is rising you're less willing to sell. At times like that, longer-term holders don't have a strong impulse to spend. So the greatest losses always come when you "can't help but sell".
 
 You should now have a better understanding of this piece of advice, which you have probably heard countless times:
 
@@ -909,15 +909,15 @@ You should now have a better understanding of this piece of advice, which you ha
 
 Money that regular investors invest should have no cost and no term. You must be able to invest it for at least two full cycles, and you must have enough money set aside to deal with unexpected events. 
 
-This upgrade in thinking is the core reason why regular investors have a relative *gamma* of 0 or close to 0. If money has a cost, *gamma* will naturally rise, and if money has a term limit then the potential for *gamma* is unlimited. If preparations for unexpected events are not make, then the potential for *gamma* is not only large, it cannot be avoided.
+This upgrade in thinking is the core reason why regular investors have a relative *gamma* of 0 or close to 0. If money has a cost, *gamma* will naturally rise, and if money has a term, then the potential for *gamma* is unlimited. If preparations for unexpected events are not made, then the potential for *gamma* is not only large, it also cannot be avoided.
 
 ### 3.4 The Ability to Continuously Earn Money Outside of the Market
 
-The core of regular investing is the ability of practitioners to make money outside of the market. Regular investors must be able to continuously invest over the long term, which means they need to have the ability to consistently earn money outside of the market over the long term. The money that they earn outside of the market must be able to cover all of their daily expenses and deal with expenses from any unexpected events. Above and beyond this, the more they can consistently earn over the long term the better. This is the part that is truly difficult. Regular investing itself is so easy that it can be summarized in just one word: buy.
+The core of regular investing is the ability of practitioners to make money outside of the market. Regular investors must be able to continuously invest over the long term, which means they need to have the ability to consistently earn money outside of the market over the long term. The money that they earn outside of the market must be able to cover all of their daily expenses and also expenses from any unexpected events. Above and beyond this, the more they can consistently earn over the long term the better. This is the part that is truly difficult. Regular investing itself is so easy that it can be summarized in just one word: buy.
 
-**Selling the same bit of time repeatedly** is the most important upgrade of a person's personal business model, because it's the most basic way to effectively make money while you sleep. In an average lifespan of 78 years, a person only has 10.5 years of work time that they can sell. But if they can make money while they sleep (28.3 years), make use of their 9 years of free time, and also use their time in a way such that they are selling it repeatedly, then they actually have income every second of every day. No matter whether they are riding in a car, getting dressed, or spending time with their children, they are always making money. Not only are they making money with at least three times the amount of time as a normal person, they are selling their time repeatedly, so the difference can be huge!
+**Selling the same bit of time repeatedly** is the most important upgrade of a person's personal business model, because it's the most basic way to effectively make money while you sleep. In an average lifespan of 78 years, a person only has 10.5 years of work time that they can sell. But if they can make money while they sleep (28.3 years), make use of their nine years of free time, and also use their time in such a way that they are selling it repeatedly, then they actually have income every second of every day. No matter whether they are riding in a car, getting dressed, or spending time with their children, they are always making money. Not only are they making money with at least three times the amount of time as a normal person, they are selling their time repeatedly, so the difference can be huge!
 
-However, most people aren't able to complete this kind of upgrade, and it's true that there aren't many ways to achieve it. Aside from publishing books and teaching online, I haven't been able to find any other feasible methods for myself. Of course, in this Information Age, writing a popular program is probably an even better way. All of these effective methods are extremely competitive, but that is to be expected given the potential payoff.
+However, most people aren't able to complete this kind of upgrade, and it's true that there aren't many ways to achieve it. Aside from publishing books and teaching online, I haven't been able to find any other feasible methods for myself. Of course, in this Information Age, writing a popular software program is probably an even better way. All of these effective methods are extremely competitive, but that is to be expected given the potential payoff.
 
 Actually, if you can't be the best, it's fine to try to come in second. So, is there an easier way?
 
@@ -925,19 +925,19 @@ The answer is: **sales**. Because, at its core...
 
 >**Sales is buying other people's time and then selling it repeatedly**.
 
-This is the ultimate reason why people who work in sales often seem to have higher income than those who work in other sectors. They aren't able to use their time to create a popular product, so they can't sell their time more than once, but they are able to repeatedly sell products created by others, and with the help of Internet tools they are able to ensure that the sales process continues even while they sleep. 
+This is the ultimate reason why people who work in sales often seem to have a higher income than those who work in other sectors. They aren't able to use their time to create a popular product, so they can't sell their time more than once, but they are able to repeatedly sell products created by others, and with the help of Internet tools they are able to ensure that the sales process continues even while they sleep. 
 
 As long as you observe carefully, you will come to the same conclusion:
 
 >No matter the company, salaries in the sales department are always high.
 
-In addition to sales being important, there is another hidden reason: sales is the easiest work to quantify, so salespeople are the most likely to be paid based on performance.
+In addition to sales being important, there is another hidden reason for this: sales is the easiest work to quantify, so salespeople are the most likely to be paid based on performance.
 
-A key similarity between sales and regular investing is that the choice of what to sell or invest in is very important. What is the best thing to sell? It must be something that people need, and something that requires continuous communication to complete the sale.  We can observe that the highest paid salespeople often sell things like real estate, cars, courses, or insurance. Why is this? First of all, it's because these are all things that people need. But even more importantly, these items require repeated communication in order to complete the sale.
+A key similarity between sales and regular investing is that the choices of what to sell and what to invest in are both very important. What is the best thing to sell? It must be something that people need, and something that requires continuous communication to complete the sale.  We can observe that the highest paid salespeople often sell things like real estate, cars, courses, or insurance. Why is this? First of all, it's because these are all things that people need. But even more importantly, these items require repeated communication in order to complete the sale.
 
 In fact, everyone should focus on their ability to sell, because at the core of successful selling is one of life's most important skills: **effective communication**. Isn't every successful sale an example of effective communication? For a child, convincing their classmate to keep a secret from the teacher is a successful sale. For an adult, convincing someone to fall in love with them is a successful sale, and so is securing a promotion or a raise. The ability to sell is the ultimate skill.
 
-After I graduated from university, my first job was in sales. Actually, even though I've had many different jobs since then, in my view they all had sales at their core. For instance, being a teacher was a sales job, because, if the students didn't like me, no matter how correct everything I told them was they still wouldn't pay attention. Writing and publishing books is a sales job because, if my titles don't attract readers, they won't even give me a second look. As an angel investor, what is the difference between my money and others' money? There is none, so why should an entrepreneur take my money and not somebody else's? Because I am better at sales.
+After I graduated from university, my first job was in sales. Actually, even though I've had many different jobs since then, in my view they all had sales at their core. For instance, being a teacher was a sales job, because if the students didn't like me, no matter how correct everything I told them was they still wouldn't pay attention. Writing and publishing books is a sales job, because if my titles don't attract readers they won't even give me a second look. As an angel investor, what is the difference between my money and the money of others? There is none, so why should an entrepreneur take my money and not somebody else's? Because I am better at sales.
 
 What is the core of selling? **Trust.**
 
@@ -945,23 +945,23 @@ Please never think that sales is based on tricking people. People who think like
 
 >It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.
 
-If a client is willing to buy a house, a car, a course, or insurance from you, in addition to the product being truly worth buying, it also depends on their trust in you. At its core, trust is much more important than the product being sold. Without trust, no sale will take place. But trust is so important that excellent salespeople will not be willing to sell bad products. They often ask themselves, would I buy this? Would I sell it to a member of my family? Would I sell it to an old friend? People who lack a long-term perspective find this hard to believe, and they may even think that this attitude is fake, but actually salespeople who have excellent performance over the long term take these question very seriously, and they benefit enormously from this type of thinking.
+If a client is willing to buy a house, a car, a course, or insurance from you, in addition to the product being truly worth buying, it also depends on their trust in you. At its core, trust is much more important than the product being sold. Without trust, no sale will take place. But trust is so important that excellent salespeople will not be willing to sell bad products. They often ask themselves, would I buy this? Would I sell it to a member of my family? Would I sell it to an old friend? People who lack a long-term perspective find this hard to believe, and they may even think that this attitude is fake, but actually salespeople who have excellent performance over the long term take these questions very seriously, and they benefit enormously from this type of thinking.
 
 Train your ability to sell. It's so important, and can be extremely useful in every aspect of your life. Furthermore, everyone has the chance to train themself to be a good salesperson. The most important thing is that it's an upgrade of your personal business model.
 
 Unfortunately, sales still isn't something that everyone is able to do well. So, taking another step back, is there anything else to do? Of course there is. You can improve your ability to cooperate. Since people rarely take this concept seriously, let's make up a new word to describe it: **cooperability**. Being good at cooperating with others is actually also a small upgrade to your personal business model. It's not an easy thing to do, because increasing your "cooperability" also requires strong communication skills, trust, and being really good at something.
 
-Lots of people are really bad at cooperating. They get quite frustrated, but they always blame their lack of cooperability on the wrong thing: a strong personality, or a bad temper. That's all a mirage, because there is only one reason for poor cooperability: they are not able to do their part well enough. A strong personality or a bad temper is not the reason they can't cooperate well with others. If they were able to do their part well, then others would be willing to cooperate with them even if they had a bad temper. The other party would focus on doing their part of the cooperation well.
+Lots of people are very bad at cooperating. They get quite frustrated, but they always blame their lack of cooperability on the wrong thing: a strong personality, or a bad temper. That's all a mirage, because there is only one reason for poor cooperability: they are not able to do their part well enough. A strong personality or a bad temper is not the reason they can't cooperate well with others. If they were able to do their part well, then others would be willing to cooperate with them even if they had a bad temper. The other party would focus on doing their part of the cooperation well.
 
 You must have a special skill that makes others want to cooperate with you. If you try to cooperate with someone but they are unwilling, the most probable reason isn't that they don't understand your value, it's that you don't have enough special skills to make them want to cooperate with you. It's sad that so many people don't discover that they have no skills until they're over thirty. 
 
-What's most important at this stage? The correct answer seems too obvious: **honesty**. People with no skills are all dishonest in many ways. They are dishonest to other people, and only get by through various guises. They are dishonest with themselves, and their guises sometimes trick themselves. They treat the learning of knowledge in a dishonest way, and never fully believe in the utility of knowledge, so in their studies they always miss a lot of details and end up knowing nothing. All of this leads to the most serious defect, which is that, because the can't help but put all of their attention on the gains and losses and opportunities of the moment, it's impossible for them to have the ability to make macro observations from a long-term perspective.
+What's most important at this stage? The correct answer seems too obvious: **honesty**. People with no skills are all dishonest in many ways. They are dishonest to other people, and only get by through various guises. They are dishonest with themselves, and their guises sometimes trick themselves. They treat the learning of knowledge in a dishonest way, and never fully believe in the utility of knowledge, so in their studies they always miss a lot of details and end up knowing nothing. All of this leads to the most serious defect, which is that, because they can't help but put all of their attention on the gains and losses and opportunities of the moment, it's impossible for them to have the ability to make macro observations from a long-term perspective.
 
 Another way to improve cooperability is by **not complaining**. The best people to cooperate with are those who never complain. The reason is simple: complaining is useless. People with poor cooperability complain about everything. They complain about the broader environment, they complain about the quality of their partners, they complain about luck, they complain that others aren't being fair, they complain that their family doesn't give enough support... Consciously or not, they are in the habit of using these complaints to cover up an obvious fact: they didn't do their part well enough. If someone is able to truly reject all complaining, then it will definitely cause them to put all of their energy into doing their part, which naturally improves their cooperability.
 
 Life is at its core a trading market. Every principle that works in trading markets also works on the stage of life.
 
-When I look back on my choices from many years ago, the strategies I used for my major choices were identical to the strategies for choosing investments that I have outlined in Parts One and Two of this book. First, I wanted to go to a place that was developing more rapidly, so I moved from a small border town to Beijing. Which sector was developing the fastest? To be frank, I didn't see clearly enough, because I chose education instead of tech. I had one choice left, and I chose New Oriental, at the time the fastest growing company in the education sector. Afterwards, I followed the steps in this chapter. I worked there for seven years, honestly doing my part and cooperating with others as best I could. I had a strong personality and a bad temper, but I improved my ability to sell, my ability to lecture, and my ability to write. By the time I left, I had upgraded my personal business model, and I was getting better and better at selling my time repeatedly. Once I'd grown my egg white to a large enough size, I started investing. I become a regular investor, and all of my success in the market has been due to one secret: **I've been constantly working hard and honestly to make money outside of the market**.
+When I look back on my choices from many years ago, the strategies I used to make my major choices were identical to the strategies for choosing investments that I have outlined in Parts One and Two of this book. First, I wanted to go to a place that was developing more rapidly, so I moved from a small border town to Beijing. Which sector was developing the fastest? To be frank, I didn't see clearly enough, because I chose education instead of tech. I had one choice left, and I chose New Oriental, at the time the fastest growing company in the education sector. Afterwards, I followed the steps in this chapter. I worked there for seven years, honestly doing my part and cooperating with others as best I could. I had a strong personality and a bad temper, but I improved my ability to sell, my ability to lecture, and my ability to write. By the time I left, I had upgraded my personal business model, and I was getting better and better at selling my time repeatedly. Once I'd grown my egg white to a large enough size, I started investing. I become a regular investor, and all of my success in the market has been due to one secret: **I've been constantly working hard and honestly to make money outside of the market**.
 
 ### 3.5 The Stages of Regular Investing
 
@@ -975,25 +975,25 @@ So no matter whether or not you regularly invest, when you first enter the marke
 
 I like to read instruction manuals. If you give me something new, I'll be extra happy if it has an instruction manual. Reading instruction manuals can teach us about new features and new ways of using things. It's a great feeling to be able to quickly and fully grasp all of the ways to use a new thing.
 
-Unfortunately, there's no instruction manual for investing. In fact, all of the important things we run into in our lives don't have instruction manuals. No one gives us a marriage instruction manual when we get married, and no one gives us a parenting manual when we have children. Of course, when we were born no one gave our parents a manual either, and now that we are grown up our parents are just like us: the still don't have an instruction manual for life.
+Unfortunately, there's no instruction manual for investing. In fact, none of the important things we encounter in our lives have instruction manuals. No one gives us a marriage instruction manual when we get married, and no one gives us a parenting manual when we have children. Of course, when we were born no one gave our parents a manual either, and now that we are grown up our parents are just like us: they still don't have an instruction manual for life.
 
-But humans are different than other animals. Most importantly, we have spoken and written language, so we don't start from zero when we are born. Once we learn to read, we are "standing on the shoulders of giants".
+But humans are different than other animals. Most importantly, we have spoken and written language, so we don't start from scratch when we are born. Once we learn to read, we are "standing on the shoulders of giants".
 
-But if we are able to stand on the shoulders of giants, why do most of us end up living under the heel of giants? The best explanation is that, very early on, most of us gave up on the best strategy: **blindly following**, which we talked about in detail in Part Two. Independent thinking early on may sometimes be a good thing, but more often than not it's bad. This is because independent thinking doesn't have any value in and of itself; it's only truly effective when it's based on broad experience and knowledge. The problem is that at an early age we lack knowledge and experience! Without knowledge and experience, independent thinking is severely limiting.
+But if we are able to stand on the shoulders of giants, why do most of us end up living under the heel of giants? The best explanation is that, very early on, most of us gave up on the best strategy, **blindly following**, which we talked about in detail in Part Two. Independent thinking early on may sometimes be a good thing, but more often than not it's bad. This is because independent thinking doesn't have any value in and of itself; it's only truly effective when it's based on broad experience and knowledge. The problem is that early on we lack knowledge and experience! Without knowledge and experience, independent thinking is severely limiting.
 
 Blindly following is particularly difficult for adults, because they've been fighting to think independently for a long time, and it's difficult for them to go back. In this case, a simple trick can be helpful:
 
 >You can think independently, but you must leave your actions on paper. That is to say, you can use a notebook to record your independent thinking, but in your actions you blindly follow.
 
-Outside of investing, you don't necessarily need to do this. But when it comes to investing, you must do this! Investing isn't an area in which you can try things out and make mistakes, because each mistake will lead to the loss of your valuable money and even more valuable time. If it's just an untested, stupid new investing strategy, it's not worth using your money and your life to test it.
+Outside of investing, you don't necessarily need to do this. But when it comes to investing, you must do this! Investing isn't an area in which you can try things out and make mistakes, because each mistake will lead to the loss of your valuable money and even more valuable time. If it's just an untested, stupid new investing strategy, it's not worth using your money and your life to test it out.
 
 This simple trick is even more powerful when combined with another trick:
 
 >Carefully observe the decisions and results of others, learn necessary lessons and experience from their mistakes, and write them down on paper.
 
-Observe the mistakes of others, see the financial price that they pay, and see how they use their precious life to test things. It almost seems like cheating, but there is no better way to broaden your knowledge and experience. One of my favorite pastimes is reading the different points of view that people share on online forums and in chat groups. I take notes and periodically review them. It's been indispensable for my personal development.
+Observe the mistakes of others, see the financial price that they pay, and see how they use their precious lives to test things out. It almost seems like cheating, but there is no better way to broaden your knowledge and experience. One of my favorite pastimes is reading the different points of view that people share on online forums and in chat groups. I take notes and periodically review them. It's been indispensable for my personal development.
 
-The fact that we are likely enter the market at a bad time, coupled with the fact that slumps tend to last for a long time, challenges one of our stronger inclinations: when we are faced with a loss we have a strong desire to make a change. Our mind isn't designed for investing, it was designed over millions of years of years to struggle to survive. So at this stage there is only one way to resist the overpowering desire to struggle:
+The fact that we are likely to enter the market at a bad time, coupled with the fact that slumps tend to last for a long time, challenges one of our stronger inclinations: when we are faced with a loss we have a strong desire to make a change. Our mind isn't designed for investing; it was designed over millions of years to struggle to survive. So at this stage there is only one way to resist the overpowering desire to struggle:
 
 >Cultivate a long-term perspective. 
 
@@ -1001,31 +1001,31 @@ There was a news story in 2017 about a dispute twenty years prior between two Br
 
 ![Figure27](../images/Figure27.png)
 
-What did Vivian do after returning from court? She quietly planted a row of saplings on the border between the two properties. After five years, the saplings had grown into a row of small trees. After fifteen years, the fast-growing trees that Vivian had chosen had grown into a 20-30 meter high wall of trees! The picture above shows Vivian leaving court, this time victorious and smiling, twenty years after the initial dispute. How did she win? She had won twenty years earlier, it's just that the Kelley family had to wait a long time before they realized that they had lost, and lost thoroughly. Vivian, on the other hand, knew every day of those twenty years that she was winning, and it must have brought her more happiness than the average person.
+What did Vivian do after returning from court? She quietly planted a row of saplings on the border between the two properties. After five years, the saplings had grown into a row of small trees. After fifteen years, the fast-growing trees that Vivian had chosen had grown into a twenty to thirty-meter-high wall of trees! The picture above shows Vivian leaving court, this time victorious and smiling, twenty years after the initial dispute. How did she win? She had won twenty years earlier, it's just that the Kelley family had to wait a long time before they realized that they had lost, and lost thoroughly. Vivian, on the other hand, knew every day of those twenty years that she was winning, and it must have brought her more happiness than the average person.
 
-Weather reports are always wrong, but there are some events in the future that we can be 100% sure of. For instance, if you plant a tree it will grow. Regular investors are like this. Their investments are like planting a tree. You might not see much after four or five years, but after twenty or thirty years (or two full cycles), the seeds they planted will have grown into giant trees.
+Weather reports are always wrong, but there are some events in the future of which we can be 100% sure. For instance, if you plant a tree it will grow. Regular investors are like this. Their investments are like planting a tree. You might not see much after four or five years, but after twenty or thirty years (or two full cycles), the seeds they planted will have grown into giant trees.
 
 After a long slump passes, a new stage will begin: **the first harvest**.
 
 This stage will be extremely short, but it is actually the hardest to pass through. First, you will discover that your world becomes noisier. In addition to external distractions, you will start to have all sorts of delusions. The most common delusion is that you will feel like you've gotten smarter! Not only that, your perceived intellect will continue to rise along with the price! You will start to speak more loudly, your intonation will become sharper, and everyone around you will agree with whatever you say. You will become more and more confident.
 
-It's good to have a certain amount of confidence, but if you have even a little bit too much your IQ will drop to zero. As you become more overconfident, your IQ will become negative, and you will start to do all sorts of stupid things. Of course your living expenditures will increase, but the most subtle stupid thing you will do is give up your previous long-term investments. Even more insidiously, you will give up your future long-term investments, as you will forget that the investments you give up at this point will appreciate substantially over the next full cycle. At this stage, people pay the price of an island to buy a luxury car. They think they are throwing away a thousand dollars, but they are actually throwing away ten thousand! Your stupidity at this stage can cause you to lose future earnings that you couldn't get back if you worked for a thousand years.
+It's good to have a certain amount of confidence, but if you have even a little bit too much your IQ will drop to zero. As you become more overconfident, your IQ will become negative, and you will start to do all sorts of stupid things. Of course your living expenditures will increase, but the most subtle stupid thing you will do is give up your previous long-term investments. Even more insidiously, you will give up your future long-term investments, as you will forget that the investments you give up at this point would have appreciated substantially over the next full cycle. At this stage, people pay the price of an island to buy a luxury car. They think they are throwing away a thousand dollars, but they are actually throwing away ten thousand! Your stupidity at this stage can cause you to lose future earnings that you couldn't get back even if you worked for a thousand years.
 
-But, when compared with another type of stupidity, the stupidity mentioned above hardly counts. At this stage, the few people who have ambition are led by that ambition to make an even stupider mistake: they start to invest like crazy. Their intentions are positive. They just want to make progress, and investment is of course a good thing that can help them do better. Actually, very few people have such a positive attitude. The problem is that their intellect didn't really improve, and even if they have expanded their knowledge it's still not enough, so they end up losing through "skill" all of the money that they made through "luck".
+When compared with another type of stupidity, however, the stupidity mentioned above hardly counts. At this stage, the few people who have ambition are led by that ambition to make an even stupider mistake: they start to invest like crazy. Their intentions are positive. They just want to make progress, and investment is of course a good thing that can help them do better. Actually, very few people have such a positive attitude. The problem is that their intellect didn't really improve, and even if they have expanded their knowledge it's still not enough, so they end up losing through "skill" all of the money that they made through "luck".
 
 There is a psychological phenomenon that acts as a catalyst here called the House Money Effect. In a casino, gamblers can't help but not see their winnings as real money, and they are likely to be more careless with it. They see the money they brought to the casino as money that they really earned, but they see their winnings as not really theirs, so they have no compunctions about spending it. Sometimes they even feel like they have to spend it. The majority of people, who have no ambition, just spend lavishly, and the few who have ambition make irresponsible investments. 
 
 This stage is the best for strengthening the **ability of doing nothing**. During times like these, doing nothing requires skill! This is easier for regular investors, because they have cultivated the ability to do nothing in the market but buy. Hopefully, it's a habit that they have already developed for a long time. Also, regular investors have something more important to do: make money outside of the market. Furthermore, since the price has risen, they need an even stronger ability to make money outside of the market, so they are working hard to truly improve themselves, and it's hard to have delusions. Actually, the ability to make money outside of the market is the best way to test if a person is truly improving, because outside of the market you are not being buttressed by trends. In the market you compete based on your choice of investment; outside of the market you compete based on your skills.
 
-Once this short second stage passes, you will enter the third, most difficult-to-bear stage: **the second slump**. The pleasure of earning one dollar is much less than the pain of losing one dollar -- this is a bias that all of us naturally have. Like the first stage, this stage is very long, and it will perhaps be longer, since you will experience the second slump from its beginning to its end, whereas, if you were enticed to enter the market by a temporary price increase in the middle of the slump, you may have only caught part of the slump in the first stage.
+Once this short second stage passes, you will enter the third, most difficult-to-bear stage: **the second slump**. The pleasure of earning a dollar is much less than the pain of losing a dollar -- this is a bias that all of us naturally have. Like the first stage, this stage is very long, and it will perhaps be longer, since you will experience the second slump from its beginning to its end, whereas, if you were enticed to enter the market by a temporary price increase in the middle of the slump, you may have only caught part of the slump in the first stage.
 
-In this stage your experience of losses will be different from the first stage, because the losses will be much larger in absolute terms. Furthermore, because the size of the losses will have increased, your imagination will also be stronger, and you will find your brain full of the following idea:
+In this stage your experience of losses will be different from the first stage, because in absolute terms the losses will be much larger. Furthermore, because the size of the losses will have increased, your imagination will also be stronger, and you will find your brain full of the following idea:
 
 >If only...
 
-For instance, "If only I had sold everything in January, I could live in a house three times the size of my current house!" Or, "Even if I'd sold last month, my wife wouldn't have anything to argue with me about!" And on and on... Even worse, you will always have other people to compare yourself with: "Look at them, they got out early!"
+For instance, "If only I had sold everything in January, I could live in a house three times the size of my current house!" Or, "If I'd only sold last month, my wife wouldn't have anything to argue with me about!" And on and on... Even worse, you will always have other people to compare yourself with: "Look at them, they got out early!"
 
-In fact, you can relax if you just change your perspective. It's as if you just steered a boat from a small river into a bigger river. You need to experience again what you previously experienced, it's just that the waves are a little (or a lot!) bigger. You got motion sickness in the small river, and now you feel uncomfortable again. You'll probably vomit a few times in the big river, but you'll eventually get used to it, just like you got used to the small river. You just have to keep reminding yourself that, even you you still have a long way to go, you'll eventually make it to the ocean. The waves are even bigger there, but once again you'll eventually get used to it.
+In fact, if you just change your perspective you can relax. It's as if you steered a boat from a small river into a bigger river. You need to experience again what you previously experienced, it's just that the waves are a little (or a lot!) bigger. You got motion sickness in the small river, and now you feel uncomfortable again. You'll probably vomit a few times in the big river, but you'll eventually get used to it, just like you got used to the small river. You just have to keep reminding yourself that, even if you still have a long way to go, you'll eventually make it to the ocean. The waves are even bigger there, but once again you'll eventually get used to it.
 
 In this stage you must establish the following new worldview: 
 
@@ -1039,7 +1039,7 @@ Not taking into account dividends, over the past thirteen years New Oriental has
 
 Viewed from this perspective, Yu Minhong, my former boss, can be seen as a model. He took each end point as a new beginning and kept moving forward. Over the last thirteen years, and also during the six years before that, I've seen countless people criticize him from every angle that you can imagine. But in fact, from this perspective, none of the criticism had any merit.
 
-Once you make it through this stage, you'll enter the next stage: **another harvest**. This time, you will be entering the ocean. You might feel surprised -- the wind and waves are stronger than both of the rivers -- but you feel calm. For me, at least, I was surprised at how calm I felt. But I quickly discovers that it was normal. If you're like me and what you see every day is people who are still in the rivers but act as if they are experiencing the violent storms of the ocean, you couldn't help but be calm.
+Once you make it through this stage, you'll enter the next stage: **another harvest**. This time, you will be entering the ocean. You might feel surprised -- the wind and waves are stronger than both of the rivers -- but you feel calm. For me, at least, I was surprised at how calm I felt. But I quickly discovered that it was normal. If you're like me and what you see every day is people who are still in the rivers but act as if they are experiencing the violent storms of the ocean, you can't help but be calm.
 
 At this stage, there will quite possibly be one thing that keeps you from feeling calm. You may not have found a goal that is worth your continued effort. Imagine that you have all the money you could ever need but you still haven't found what you are living for. It's terrible, isn't it? What I have been most lucky in is that, even before my egg white was prepared, I had found something that was worth doing for my whole life: learning and growing. Many reporters have looked at me funny during interviews and expressed that they find this hard to believe. But I hope you can understand the excitement and joy that can come to someone who clearly knows that they are not particularly gifted, but has been able to constantly improve through long-term, continuous learning. 
 
@@ -1057,20 +1057,20 @@ The key to successful investing is to be completely objective -- about yourself,
 
 It's easy to despair when looking at research done by psychologists around the world over the years. They have repeatedly shown us one result: humans are completely unreliable, and we make absolutely terrible decisions.
 
-[Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman), who won the Nobel Prize in Economics in 2002, and his research partner, [Amos Tversky](https://en.wikipedia.org/wiki/Amos_Tversky), discovered many years ago that people have an extreme aversion to loss. We've already mentioned several times that the pain of losing a dollar greatly exceeds the pleasure of gaining a dollar, and actually even the way that we describe something can lead to different choices. 
+[Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman), who won the Nobel Prize in Economics in 2002, and his research partner, [Amos Tversky](https://en.wikipedia.org/wiki/Amos_Tversky), discovered many years ago that people have an extreme aversion to loss. We've already mentioned several times that the pain of losing a dollar greatly exceeds the pleasure of gaining a dollar. Actually, even the way that we describe something can lead to different choices. 
 
 For instance, [a paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631940/) by Benedetto De Martino and his collaborators describes an experiment in which participants were told that they had received an amount of money, such as fifty British pounds. They were told that they would not necessarily be able to keep all of the money, but would instead have to choose between a "sure" option, in which they would keep a portion of the money, and a "gamble" option, in which they would either keep all of the money of lose all of the money. The expected outcomes of both options were the same, meaning that the average results of the "gamble", if repeated over time, would be the same as the "sure" option. For each round of the experiment, subjects were split into two groups, with the only difference being that the "sure" option was framed in different ways:
 
 > * Gain frame: you can keep 20 out of the 50 pounds.
 > * Loss frame: you will lose 30 out of the 50 pounds. 
 
-Obviously, the results of these two frames are the same, because no matter what the subject ends up with 20 pounds. But since the second choice described a loss, the tests subjects' loss aversion was activated. The key is what happened next: the activation of their loss aversion influenced their subsequent decisions. 
+Obviously, the results of these two frames are the same, because the subject ends up with 20 pounds no matter what. But since the second frame described a loss, the tests subjects' loss aversion was activated. The key is what happened next: the activation of their loss aversion influenced their subsequent decisions. 
 
 ![Figure29](../images/Figure29.png)
 
-While only 42.9% of the subjects who had been presented with the Gain frame chose to gamble, 61.6% of the subjects who had been presented with the Loss frame made the same choice. Remember, the amount that participants would keep with the "sure" option was the same for both frames -- the only difference was the way the option was described. Furthermore, this effect was present in all of the test subjects, albeit to various degrees.
+While only 42.9% of the subjects who had been presented with the Gain frame chose to gamble, 61.6% of the subjects who had been presented with the Loss frame decided to gamble. Remember, the amount that participants would keep with the "sure" option was the same for both frames -- the only difference was the way the option was described. Furthermore, this effect was present in all of the test subjects, albeit to various degrees.
 
-It turns out that people take many risks because they are afraid! Or, to put it another way, it turns out that the reason that many people take risks is not that they are brave! And furthermore, the thing that they are afraid of doesn't exist...
+It turns out that people take many risks because they are afraid! Or, to put it another way, it turns out that the reason many people take risks is not that they are brave! And furthermore, the thing that they are afraid of doesn't exist...
 
 But we're not done yet...
 
@@ -1078,21 +1078,21 @@ The most interesting part of the experiment was perhaps the post-experiment inte
 
 >I knew what was happening, but I couldn't control myself...
 
-This is really scary. Even when know what is going on, we still can't control ourselves.
+This is really scary. Even when we know what is going on, we still can't control ourselves.
 
-The results of this experiment should leave serious investors like us speechless and terrified. Why? Because we are investing with our own money, not just 20 British pounds. And we're not just investing with the money that we have today, but also with our future money and time, and with the money that we hope our money will make in the future. We have our money, our time, and what we believe to be a correct goal, but now we see that sometimes we may be unable to stop ourselves from making a wrong decision, or even a catastrophic decision, even when we know exactly what is happening! Could anything be more terrifying than this? It's like a ghost story or horror movie! Ghost stories are all the same, from east to west, from past to present, and you can sum them up in one sentence: for some reason, the main character sees themself moving toward destruction, but there is nothing they can do, even though they can see it happening, because they can't control themself...
+The results of this experiment should leave serious investors like us speechless and terrified. Why? Because we are investing with our own money, not just twenty British pounds. And we're not just investing with the money that we have today, but also with our future money and time, and with the money that we hope our money will make in the future. We have our money, our time, and what we believe to be a correct goal, but now we see that sometimes we may be unable to stop ourselves from making a wrong or even catostrophic decision, even when we know exactly what is happening! Could anything be more terrifying than this? It's like a ghost story or horror movie! Ghost stories are all the same, from east to west, from past to present, and you can sum them up in one sentence: for some reason, the main character sees themself moving toward destruction, but there is nothing they can do, even though they can see it happening, because they can't control themself...
 
-This experiment still isn't over, though. As the subjects made their choices, the researchers monitored their brain activity using functional magnetic resonance imaging technology (fMRI), and they observed an incredible phenomenon.
+This experiment still wasn't over, though. As the subjects made their choices, the researchers monitored their brain activity using functional magnetic resonance imaging technology (fMRI), and they observed an incredible phenomenon.
 
 ![Figure30](../images/Figure30.png)
 
 This image basically reveals why we can't control ourselves.
 
-The results of the experiment showed that when the subjects were unable to control their loss aversion their amygdalae were extremely active. What are the amygdalae? They are two almond-shaped clusters of neurons in the brain that play an important role in our decision-making, memory, and emotions or moods. They can trigger emergency responses such as the fight or flight reflex when faced with danger. The amygdalae are small, but they are extremely important in processing emotions, particularly fear.
+The results of the experiment showed that when the subjects were unable to control their loss aversion their amygdalae were extremely active. What are the amygdalae? They are two almond-shaped clusters of neurons in the brain that play an important role in our decision-making, memory, and emotions or moods. They can trigger emergency responses such as the fight or flight reflex when we are faced with danger. The amygdalae are small, but they are extremely important in processing emotions, particularly fear.
 
 If you look back on times when you have felt extremely fearful, you will remember that your fear wasn't just an emotional state, but also a physical one. Your heart rate increased, your stomach felt empty, you felt uncomfortable, and you began to sweat. You felt like your brain was empty, because your brain lacked blood and oxygen. This emergency response of the amygdalae was what doomed the subjects; it was what caused the subject to feel, "I knew  what was happening, but I couldn't control myself". 
 
-Even more disappointing is that we are unwilling to change. When our mistakes are pointed out to us, we become even more stubborn in our mistaken choices. At this point, you're probably thinking, "But I'm not like this, am I?" Allow me to answer for you: you are like this, because we are all like this to some extent or another. 
+Even more disappointing is that we are unwilling to change. When our mistakes are pointed out to us, we become even more stubborn in our mistaken choices. At this point, you're probably thinking, "But I'm not like this, am I?" Allow me to answer for you: you are like this, because we are all like this to some extent. 
 
 Francis Bacon made [the following observation](https://rintintin.colorado.edu/~vancecd/phil3600/Bacon.pdf):
 
@@ -1122,7 +1122,7 @@ Can you see how unreliable we are?
 
 ### 4.2 Don't Be Your Own Worst Enemy
 
-With more and more evidence showing how unreliable we are, there is an old saying that has become a tenet for many people: 
+With more and more evidence showing how unreliable we are, there is an old saying that has become an article of faith for many people: 
 
 >You are your own worst enemy.
 
@@ -1134,7 +1134,7 @@ I prefer [Plato's](https://en.wikipedia.org/wiki/Plato) [Chariot Allegory](https
 
 Put simply, the innermost portion, the reptile brain, is in charge of intuition; the middle portion, the monkey brain, is in charge of handling emotions; and the outermost portion, the human brain, is in charge of logic and reasoning. It's not an exaggeration to say that all of human culture is based on the neomammalian cortex, which I refer to here as the human brain. The largest difference between humans and other mammals is the development of this cortex.
 
-When the subjects of the experiment mentioned in the previous chapter were presented with choices, they used their human brain to understand them. As soon as they started take action, their loss aversion was activated by their monkey brain, but the not-always-correct instinct that loss is a bad thing comes from the reptile brain. When the subjects were unable to control themselves, this was because their monkey brains acted faster than their human brains, so whenever they had to make an immediate decision, the monkey, or even the reptile, raised its hand first. By the time the human had realized what was going on, it was too late. This is why the best way to have a cool head in daily life is to first close our eyes and do nothing.
+When the subjects of the experiment mentioned in the previous chapter were presented with choices, they used their human brain to understand them. As soon as they started to take action, their loss aversion was activated by their monkey brain, but the not-always-correct instinct that loss is a bad thing comes from the reptile brain. When the subjects were unable to control themselves, this was because their monkey brains acted faster than their human brains, so whenever they had to make an immediate decision, the monkey, or even the reptile, raised its hand first. By the time the human had realized what was going on, it was too late. This is why the best way to have a cool head in daily life is to first close our eyes and do nothing.
 
 The metaphor that Plato came up with 2,000 years ago is surprisingly similar to what scientists today have postulated after closer observations of how brains work. Take a look:
 
@@ -1148,9 +1148,9 @@ I like Plato's metaphor better than the "human, monkey, and reptile" names becau
 
 ![Figure32](../images/Figure32.png)
 
-In the beginning, the black horse is the strongest, because, from a genetic perspective, it is the oldest. It provides the most basic and rapid responses that allow us to survive in a treacherous world. Reptiles have no driver and no white horse, but they have been able to survive for so long -- much longer than humans -- with just one black horse. If a smaller animal from a different species enters its world, it eats it (Feed!); if a smaller member of its species of the same sex enters its world, it attacks it (Fight!); if a member of its species of the opposite sex enters its world, it copulates with it (Fuck!); If a larger member of its species of the same sex enters its world, it runs away (Flee!). If something that is none of the above enters its world, it stays still (Freeze!) All of this is without contemplation and without emotion.
+In the beginning, the black horse is the strongest, because, from a genetic perspective, it is the oldest. It provides the most basic and rapid responses that allow us to survive in a treacherous world. Reptiles have no driver and no white horse, but they have been able to survive for so long -- much longer than humans -- with just one black horse. If a smaller animal of a different species enters its world, it eats it (Feed!); if a smaller member of its own species of the same sex enters its world, it attacks it (Fight!); if a member of its own species of the opposite sex enters its world, it copulates with it (Fuck!); If a larger member of its own species of the same sex enters its world, it runs away (Flee!). If something that is none of the above enters its world, it stays still (Freeze!) All of this is without contemplation and without emotion.
 
-The white horse is younger than the black horse, so it is weaker, but it can handle more situations. Emotions can help us judge good and bad, and make us feel happy or sad based on the results of our choices. This helps us learn and remember so that we can make better and more rapid choices the next time. All of the basic emotions, such as happiness, sadness, fear, revulsion, anger and surprise, can be seen as shortcuts to access our learnings. A certain situation will give rise to a certain emotion, which will activate an instinct that activates a behavior, or it emotion may even directly activate the behavior.
+The white horse is younger than the black horse, so it is weaker, but it can handle more situations. Emotions can help us judge good and bad, and make us feel happy or sad based on the results of our choices. This helps us learn and remember so that we can make better and more rapid choices the next time. All of the basic emotions, such as happiness, sadness, fear, revulsion, anger and surprise, can be seen as shortcuts to access our learnings. A certain situation will give rise to a certain emotion, which will activate an instinct that activates a behavior, or the emotion may even directly activate the behavior.
 
 You can understand the process like this. When you encounter a situation, if the black horse can handle it it handles it directly. But the black horse can only directly handle limited types of situations, and if it can't handle it it hands it off to the white horse. Once the white horse has processed it, it hands it back to the black horse to take action.
 
@@ -1160,15 +1160,15 @@ We can define "keeping a cool head" in the following way:
 
 >No matter what happens, all three roles process it once before passing it on to the driver for a final decision.
 
-That is to say that you do not take any action until all three roles have processed the situation. This simple, direct, brutal and effective strategy will change the performance of the whole chariot. The driver will quickly understand that the both the black horse and the white horse can have incorrect responses. The driver will further discover that, after repeated communication between the three roles, the white horse may listen to the driver, and the black horse can develop new and correct intuition. 
+That is to say that you do not take any action until all three roles have processed the situation. This simple, direct, brutal and effective strategy will change the performance of the whole chariot. The driver will quickly understand that both the black horse and the white horse can have incorrect responses. The driver will further discover that, after repeated communication between the three roles, the white horse may listen to the driver, and the black horse can develop new and correct intuition. 
 
-The driver starts off as the weakest of the three, and it is only by keeping a cool head that they can participate, gain experience, and continuously grow. As the driver continuously grows, the white horse and the black horse go through countlesss cycles of correction and coordination, and they all end up different than before. So when people tell you to "trust our intuition", you now know that your black horse and the black horse of an expert may be completely different. The expert can trust their intuition, but maybe you can't.
+The driver starts off as the weakest of the three, and it is only by keeping a cool head that they can participate, gain experience, and continuously grow. As the driver continuously grows, the white horse and the black horse go through countlesss cycles of correction and coordination, and they all end up different than before. So when people tell you to "trust your intuition", you now know that your black horse and the black horse of an expert may be completely different. The expert can trust their intuition, but maybe you can't.
 
 Members of my Regular Investing Practice Group have already experienced this magical process. 
 
 Before they started regularly investing, their black horses were the same as everyone else's, running away whenever the price fell. As to why they ran away, they didn't even have time to think about it, or even time to be afraid, because they had already run away. This intuition led to the fear and disappointment of the white horse, and the chariot was far away before the driver even knew what had happened. 
 
-After reading books, listening to classes and repeated discussion and thought, the members of the practice group started to exhibit surprising changes. 
+After reading books, listening to classes and engaging in repeated discussion and thought, the members of the practice group started to exhibit surprising changes. 
 
 When the price fell, the black horse still wanted to run, and the white horse was still afraid, but the driver thought about it and said to the white horse, "No! You shouldn't be afraid or disappointed, you should be happy! This situation is good for you, because you can buy at cheaper prices." The white horse understood that its initial reaction was wrong, so it corrected itself. The next time the price fell, the white horse was happy instead of disappointed. After several rounds of this, the black horse also understood, and it began to change: "If the white horse is happy, why should I run?" After each round of successful communication, the driver became more powerful and was able to work more effectively with the horses. 
 
@@ -1178,7 +1178,7 @@ You must calmly accept this fact:
 
 >Your brain contains three roles: the driver, the white horse, and the black horse.
 
-More importantly, these three roles must be friends with each other instead of enemies. In addition to continuously learning, the driver must be in constant communication with the black horse and the white horse, helping them develop new and correct emotions and intuition that allow the chariot, which is the whole of you, to be its best.
+More importantly, these three roles must be friends with each other instead of enemies. In addition to continuously learning, the driver must be in constant communication with the black horse and the white horse, helping them develop new and correct emotions and intuitions that allow the chariot, which is the whole of you, to be its best.
 
 Always remember:
 
@@ -1188,27 +1188,27 @@ As far as how to keep good relations between the three roles, it's really quite 
 
 ### 4.3 Long-term Education and the Mirror Effect
 
-This following is my favorite analogy for education:
+The following is my favorite analogy for education:
 
->Education is like a pair of glasses. You are in the same world before and after wearing the glasses, but you can see more clearly and accurately after wearing the glasses. You are in the same world before or after you learn something, but with the lens of education you can see the same world more clearly and accurately.
+>Education is like a pair of glasses. You are in the same world before and after putting on the glasses, but you can see more clearly and accurately after putting on the glasses. You are in the same world before or after you learn something, but you can see the world more clearly and accurately through the lens of education.
 
-Over the years, collecting analogies has become a hobby of mine. Even though it's been so long that I don't remember where this analogy came from, it's still my favorite, bar none. Regarding the the results of education, I have come up with another extremely accurate analogy, and I call it "the Mirror Effect":
+Over the years, collecting analogies has become a hobby of mine. Even though it's been so long that I don't remember where this analogy came from, it's still my favorite, bar none. Regarding the the results of education, I have come up with another extremely accurate analogy that I call "the Mirror Effect":
 
 >The world in the mirror and the world outside of the mirror look the same, but they are actually reversed.
 
 Do you see? It's the same price drop, but in the world outside of the mirror all of the black horses immediately run away, all of the white horses run away in fear, and the driver loses control. But in the world inside the mirror? The black horse stays still, the white horse is happy, and the driver is in control.
 
-The Mirror Effect can be seen all over the investing space. For instance, almost every stock market around the world is legally required to post a notice something like this in a clearly visible location:
+The Mirror Effect can be seen all over the investing space. For instance, almost every stock market around the world is legally required to post a notice similar to the following in a clearly visible location:
 
 >Investing involves risk! Please make decisions carefully!
 
-Of course, many true stories about the risk of investing have been passed down over time: Newton losing it all in the market, Churchill's investing failures, or a group of Nobel laureates with huge market losses. Most of us also have stories of friends or relatives who have lost everything trading. 
+Of course, many true stories about the risks of investing have been passed down over time: Newton losing it all in the markets, Churchill's investing failures, or a group of Nobel laureates with huge market losses. Most of us also have stories of friends or relatives who lost everything trading. 
 
 According to JP Morgan's statistics, since 1980 more than 40% of all stocks have at one time or another experienced a loss of 70% or more. So the stock market does sound quite dangerous! However, Wharton Professor [Jeremy Siegel's](https://en.wikipedia.org/wiki/Jeremy_Siegel) [data](https://knowledge.wharton.upenn.edu/article/jeremy-siegel-on-why-stocks-are-and-will-remain-the-best-bet/) tells a different story: 
 
 ![Figure33](../images/Figure33.png)
 
-Siegal looked at historical data from 1802 to 2012 and found that for any given ten-year period, stocks performed better than cash *80%* of the time. Furthermore, stocks performed better than stocks over every twenty-year period. Stocks also performed much better than gold, which many people think of as a safe asset. Contrary to many people's intuition, which is that stocks are the riskiest asset, stocks performed better than other assets over the long term, with annualized returns of 6.6% over 210 years. Cash, which people tend to think of as the safest asset, actually had negative real returns of -1.4%. When you see these numbers, you should think to yourself, "Where is risk the greatest?" In the stock market? Or out of the stock market?
+Siegal looked at historical data from 1802 to 2012 and found that, for any given ten-year period, stocks performed better than cash *80%* of the time. Furthermore, stocks performed better than cash over every twenty-year period. Stocks also performed much better than gold, which many people think of as a safe asset. Contrary to many people's intuition, which is that stocks are the riskiest asset, stocks performed better than other assets over the long term, with annualized returns of 6.6% over 210 years. Cash, which people tend to think of as the safest asset, actually had negative real returns of -1.4%. When you see these numbers, you should think to yourself, "Where is risk the greatest?" In the stock market? Or out of the stock market?
 
 >Based on this "discovery", Professor Siegal published a book entitled, [*Stocks for the Long Run: The Definitive Guide to Financial Market Returns & Long-Term Investment Strategies*](https://www.amazon.com/gp/product/B00GWSXX26/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0), which as of 2014 was on its fifth printing.
 
@@ -1222,18 +1222,18 @@ Actually, it can be explained in one sentence:
 
 >**The mirror in this case is an understanding of the long term.** It is this mirror that brings about so many surprising examples of the Mirror Effect.
 
-Almost all of the surprising Mirror Effects are due to different understandings of the long term. It's an eternal fact that most people have no concept of the long term and only see that which is right in front of them.  To put it another way, for the vast majority of "chariots", the black horse is always the strongest, the white horse always follows the black horse, and driver never grows even a little bit.
+Almost all of the surprising Mirror Effects are due to different understandings of the long term. It's an eternal fact that most people have no concept of the long term and only see that which is right in front of them.  To put it another way, for the vast majority of "chariots", the black horse is always the strongest, the white horse always follows the black horse, and driver never grows at all.
 
-From another perspective, we can see the concept of long term as sunglasses that filter out all light that is not related to the long term, just as normal sunglasses filter out UV rays. With these sunglasses, we can't help but use our ability to make macro observations. It's just like wearing polarized sunglasses while driving, which not only filters out the harmful UV rays, but also keeps the harshest light away from your eyes. The sunglasses allow you to see more clearly and accurately.
+To make another analogy, we can see the concept of long term as sunglasses that filter out all light that is not related to the long term, just as normal sunglasses filter out UV rays. With these sunglasses, we can't help but use our ability to make macro observations. It's just like wearing polarized sunglasses while driving, which not only filters out the harmful UV rays, but also keeps the harshest light away from your eyes. The sunglasses allow you to see more clearly and accurately.
 
 After wearing these "long-term" sunglasses, the financial news media that you used to read and watch suddenly seems completely different. You see things you didn't see before, and you think about things in an opposite manner.
 
 People on TV discuss the efficiency of the market, and both sides get all excited arguing with each other. In the past, you might have been confused, and felt that both sides seemed to be making good points. But with these long-term polarized sunglasses you suddenly understand that there is really nothing to argue about. The facts are quite simple:
 
-> * From a long-term perspective, them market tends to be relatively efficient, and the longer the term the more efficient it will be.
+> * From a long-term perspective, the market tends to be relatively efficient, and the longer the term the more efficient it will be.
 > * But at any one point in time the market is extremely inefficient.
 
-Then you start to really like the concept of "market efficiency". The more people there are who expect that the market will be efficient in the short term the better, because that's the only way you can have a relative advantage. If the market were completely efficient, then there would be no reason for the market, because price and value would always be the same, and people wouldn't need to trade. The fact that the market is always inefficient is its reason for existence, and it is the reason why people like us have an opportunity. Fortunately, because we are always wearing "long-term" sunglasses, we just have to use our time to wait for the market to show its long-term efficiency.
+Then you start to really like the concept of "market efficiency". The more people there are who expect that the market will be efficient in the short term the better, because that's the only way you can have a relative advantage. If the market were completely efficient, then there would be no reason for the market to exist, because price and value would always be the same, and people wouldn't need to trade. The fact that the market is always inefficient is its reason for existence, and it is the reason why people like us have an opportunity. Fortunately, because we are always wearing "long-term" sunglasses, we just have to use our time to wait for the market to show its long-term efficiency.
 
 Once you have done all you can to develop your concept of the long term, you will discover how different and simple macro observations are, and you will be surprised to discover this fact:
 
@@ -1241,13 +1241,13 @@ Once you have done all you can to develop your concept of the long term, you wil
 
 In Chapter 3 of Part Two, we saw how regular investors choose their investments. All they do is make several simple choices that only need to be right in the general direction, but their future returns are likely to be greater and more certain than active traders. Most other people in the market, however, spend huge amounts of time and energy to apply their entire intellect to their choices. And all for what? They want to use all of the possible data to come up with a more precise conclusion, but is their probability of success greater? History shows us that they are wasting their efforts.
 
-In the 1990s, a huge amount of talented people left China. When they look back from thirty years later, how do they actually feel? Many of them feel like they lost the best years of their lives. Why? Because over the past thirty years China has been the fastest growing region in the world, and a rising tide lifts all boats. Many less-talented people who stayed in China are now better off than those who chose to leave, and this can be hard for those talented people who seemed to be making the right decision in the moment to face. Even harder to accept is that those who didn't leave may have wanted to leave but couldn't. Why is it like this?
+In the 1990s, a huge amount of talented people left China. When they look back from thirty years later, how do they actually feel? Many of them feel like they lost the best years of their lives. Why? Because over the past thirty years China has been the fastest growing region in the world, and a rising tide lifts all boats. Many less-talented people who stayed in China are now better off than those who chose to leave, and this can be hard for those talented people -- who seemed to be making the right decision in the moment -- to face. Even harder to accept is that those who didn't leave may have wanted to leave but couldn't. Why is it like this?
 
 The best explanation may be that they put all of their attention on the present, so they could only ignore facts that should have been obvious but would only come into play in the future.  There is a famous experiment, called "[The Invisible Gorilla](https://www.youtube.com/watch?v=IGQmdoK_ZfY)", in which subjects are asked to watch a video of two groups of students passing a ball, and to count the number of times that the students in white pass the ball.
 
 ![Figure34](../images/Figure34.png)
 
-After watching the video, many people are able to count correctly that the ball was passed sixteen times, but they failed to notice the large gorilla that walked across the stage, stopping to beat its chest several times.
+After watching the video, many people were able to count correctly that the ball was passed sixteen times, but failed to notice the large gorilla that walked across the stage, stopping to beat its chest several times.
 
 ![Figure35](../images/Figure35.png)
 
@@ -1255,7 +1255,7 @@ Some people may have heard of this experiment, so they correctly count the numbe
 
 Actually, since this is just how our brain works, there is no reliable way to deal with this problem. We either focus fully on the present, or we focus fully on the future. Anyway, those are the two worlds inside and outside of the mirror, and they are always the opposite of each other. Of course, Siegal's research tells us that, as far as making money goes, focusing only on the future is a better deal.
 
-If you are able to clearly remember everything we discussed prior to this chapter, you will discover many examples of the Mirror Effect, and almost every time the mirror that causes everything to look completely opposite is "long term". When you read this book again, I suggest that you keep a list in a notebook of all the examples of the Mirror Effect. In the years to come, you can add to this list as you come across new examples. As you go through this process, you will discover that these sunglasses will slowly become invisible, and you may not even need the sunglasses anymore because the  ability to think long-term will become a natural function of your eyes.
+If you are able to clearly remember everything we discussed prior to this chapter, you will discover many examples of the Mirror Effect, and almost every time the mirror that causes everything to look completely opposite is "long term". When you read this book again, I suggest that you keep a list in a notebook of all the examples of the Mirror Effect. In the years to come, you can add to this list as you come across new examples. As you go through this process, you will discover that these sunglasses will slowly become invisible, and you may not even need the sunglasses anymore, because the ability to think long-term will become a natural function of your eyes.
 
 This is the value and necessity of investment education. Your driver must mature, and your black and white horses must be trained. In the end, they will bring you into a mirror world in which everything will look the same but actually be the opposite of what you once saw. In fact, though, the world inside the mirror is the actual nature of the objective world. This is the secret of investment: have a 100% objective understanding of the objective world, and a 100% objective understanding of oneself. It's really very difficult. It's only difficult, though, from the perspective of the present, and it's certainly not impossible. Looked at from a long-term perspective, it shouldn't be difficult at all. 
 
@@ -1263,25 +1263,25 @@ This is the value and necessity of investment education. Your driver must mature
 
 **Knowing** is one thing, **doing** is another. The difference between knowing and doing is greater than almost anyone imagines.
 
-Think back to when you were learning to write in elementary school. There were words that you always seemed to spell wrong, no matter what. For instance, maybe you would always spell "believe" as "beleive", mixing up the order of "i" and "e", even when they weren't "after c". Even though the teacher corrected you so many times, you would still get it wrong. Slowly, though, you finally got to the point where you would spell it right every time. 
+Think back to when you were learning to write in elementary school. There were words that you always seemed to spell wrong, no matter what. For instance, maybe you would always spell "believe" as "beleive", mixing up the order of "i" and "e", even when they weren't "after c". The teacher corrected you so many times, but you would still get it wrong. Eventually, though, you finally got to the point where you would spell it right every time. 
 
-Even simple knowledge can be this difficult, taking a long time to finally master. Well then, what about more complex knowledge? It can take even longer.
+If even simple knowledge can be this difficult, taking a long time to finally master, then what about more complex knowledge? It can take even longer.
 
-Logic is perhaps the clearest example. [*Beyond Feelings: A Guide to Critical Thinking*](https://www.amazon.com/Beyond-Feelings-Guide-Critical-Thinking/dp/0078038189/), which is now on its 9th edition, is the book that first taught me logic. One foggy morning I went to the library and searched for *thinking*. Among the results I saw *critical thinking*, a combination I had never seen before. I chose the book which had been updated the most times, which was *Beyond Feelings* (at the time it was on its 3rd edition). Why did I search for thinking? Because the day before two people were having a heated debate, and it pained me to discover that I thought they were both right! First, this was impossible; second, it meant that I wasn't able to think. Or, at least, something was wrong with my way of thinking. At that time I was almost 25 years old.
+Logic is perhaps the clearest example. [*Beyond Feelings: A Guide to Critical Thinking*](https://www.amazon.com/Beyond-Feelings-Guide-Critical-Thinking/dp/0078038189/), which is now on its 9th edition, is the book that first taught me logic. One foggy morning I went to the library and searched for *thinking*. Among the results I saw *critical thinking*, a combination I had never seen before. I chose the book which had been updated the most times, which was *Beyond Feelings* (at the time it was on its 3rd edition). Why did I search for thinking? Because the day before two people were having a heated debate, and it pained me to discover that I thought they were both right! First, this was impossible; second, it meant that I wasn't able to think. Or, at least, something was wrong with my way of thinking. At the time I was nearly 25 years old.
 
-Even though I'd learned some logic before graduating from college, and even though I had incorrectly assumed that I had very strong logic, I discovered that the difference between knowing nothing and knowing what I knew was very small. My goal was very clear, so reading the book gave me more pleasure than pain. By the time I finished I felt like an entirely new person! But that was an illusion, because I quickly discovered that I still frequently fell for logical fallacies. In retrospect, this is not surprising, since every logical fallacy has countless iterations. Slowly, this book became the book that I would re-read the most times over the course of my life. The mirror effect is ubiquitous, though, and this book that has had a huge impact on my life is [trash](https://www.amazon.com/gp/customer-reviews/R3S1K0E2LMJE8V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0078038189) in the eyes of some.
+Even though I'd learned some logic before graduating from college, and even though I had incorrectly assumed that I had very strong logic, I discovered that the difference between knowing nothing and knowing as much as I knew was very small. My goal was clear, so reading the book gave me more pleasure than pain. By the time I finished I felt like an entirely new person! But that was an illusion, because I quickly discovered that I still frequently fell for logical fallacies. In retrospect, this is not surprising, since every logical fallacy has countless iterations. Slowly, this book became the book that I would re-read the most times over the course of my life. The mirror effect is ubiquitous, though, and this book that has had a huge impact on my life is [trash](https://www.amazon.com/gp/customer-reviews/R3S1K0E2LMJE8V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0078038189) in the eyes of some.
 
 Was it enough to read this book multiple times? No. Several years later, when I was teaching at New Oriental, there was a period during which I taught the writing and logic portions of the GMAT. I was extremely glad that I had trained myself in logic for several years, but it was still difficult. GMAT questions are often like this:
 
 >Of the choices below (A, B, C, D, E), which, if correct, would severely weaken the author's argument?
 
-Looking back, my most valuable periods of self-teaching were repeatedly reading *Beyond Feelings* and teaching logic at New Oriental. These two periods of training myself in logic played an indispensable role in my wealth accumulation over the long term.
+Looking back, my most valuable periods of self-teaching were when I was repeatedly reading *Beyond Feelings* and teaching logic at New Oriental. Those two periods of training myself in logic have played an indispensable role in my wealth accumulation over the long term.
 
 Earlier, I noted the following:
 
 >More than 130 common cognitive biases have been identified, and I'm sure many more will be discovered.
 
-In my Regular Investing Practice Group, I have repeatedly gone over the reasons for these cognitive biases, their effects, suggestions for how to avoid them, and recent examples. But will this be immediately effective? It won't. Almost everybody is the same, and I am certainly no exception. Every once in a while I will discover that I have once again fallen for a logical fallacy that I thought I had already taught myself to avoid. 
+In my Regular Investing Practice Group, I have repeatedly gone over the reasons for these cognitive biases, their effects, suggestions for how to avoid them, and recent examples. But will this be immediately effective? It won't. This is true for almost everyone, and I am certainly no exception. Every once in a while I will discover that I have once again fallen for a logical fallacy that I thought I had already taught myself to avoid. 
 
 There's another hidden reason why the distance between knowing and doing is so great: 
 
@@ -1313,7 +1313,7 @@ Furthermore, the longer the mistake persists, the greater the effect is over the
 
 >98% <sup>30</sup> ≈ 54.55%
 
-Regular investors are fortunate because they do the right thing from the start, and as long as they keep doing it for two full cycles they can't make a mistake. Throughout this process of not making mistakes there are only two things they need to do: 1) constantly strengthen their ability to make money outside of the market, and 2) more importantly, constantly learn about investing, patiently crossing the gap between knowing and doing.
+Regular investors are fortunate because they do the right thing from the start, and as long as they keep doing it for two full cycles they can't make a mistake. Throughout this process of not making mistakes, there are only two things they need to do: 1) constantly strengthen their ability to make money outside of the market, and 2) more importantly, constantly learn about investing, patiently crossing the gap between knowing and doing.
 
 ### 4.5 The Border Between Active and Passive
 
@@ -1325,15 +1325,15 @@ This is to say that successful investors must have an objective understanding of
 
 Our body is not the border between ourselves and reality, because we are able to actively cause change in areas outside of our body.
 
-We can make extensions to our body. For instance, we can extend our legs by using transportation tools like bicycles and cars, and we can extend our brain by using Internet devices. Actually, once we are sufficiently proficient with any tool it effectively becomes a part of our body. Clearly, we can influence the world outside of our body. For instance, we can use our trust and respect to gain the trust and respect of another, as parents we can use our behavior to become a model for our children, and as an investor we can hold assets over the long term to achieve excellent long-term returns. 
+We can make extensions to our body. For instance, we can extend our legs using transportation tools like bicycles and cars, and we can extend our brains using Internet devices. Actually, once we are sufficiently proficient with any tool it effectively becomes a part of our body. Clearly, we can influence the world outside of our body. For instance, we can use our trust and respect to gain the trust and respect of another; as parents we can use our behavior to become a model for our children; and as an investor we can hold assets over the long term to achieve excellent long-term returns. 
 
-However, there is a border encompassing the area of reality that we can influence through our behavior. Within this border, we can constantly advance through hard work. Outside of this border, there is nothing we can do.
+However, there is a border which encompasses the area of reality that we can influence through our behavior. Within this border, we can constantly advance through hard work. Outside of this border, there is nothing we can do.
 
 If an individual is unable to clearly recognize the existence of this border, they will always live a life of chaos and pain.
 
 The clearest example of this is parents raising children. If parents focus their efforts on improving themselves, then they are within their own border, which is good. But in most situations we find that parents focus their efforts outside their own border, where they actually can do nothing. Children aren't stupid. Actually, their brains have a radar-like ability to see whether or not their parents follow their own advice. If their parents' actions don't match up with their words, the child will find it quite painful, especially since they still don't have a clear understanding of their own border. Their parents are constantly invading their border, and they don't have the ability to defend themselves. This is the source of most negative reactions in children. The child feels pain, and the parent feels even more pain, precisely because they are exerting effort in an area that they can't control. They keep failing and trying again with increasingly worse results until both sides are exhausted.
 
-Of course, a more common example occurs in the investing world. Do investors really need participate in operations? Maybe sometimes. But we can be almost certain that traders in the secondary market shouldn't participate in the operations of the companies they invest in. In fact, not needing to participate in operations is one of the biggest advantages of investing in the secondary markets.
+Of course, a more common example occurs in the investing world. Do investors really need to participate in operations? Maybe sometimes. But we can be almost certain that traders in the secondary market shouldn't participate in the operations of the companies they invest in. In fact, not needing to participate in operations is one of the biggest advantages of investing in the secondary markets.
 
 However, the operators of almost every publicly traded company receive many letters from shareholders every day. These shareholders have all sorts of complaints and advice, and they often end up working themselves into quite a tizzy. They are incognizant of the fact that they are wasting effort outside of their own border. They have idea that effort outside of that border is completely useless, and that if it has any effect at all it will be negative. They will never understand, because they themselves lack the ability to create an effective business model and eventually secure investment from the public. If they were able to do so, they would discover that it's terrible to have so many people on the outside trying to influence you, and that it's even worse to be actually swayed by those on the outside. You could even say the following: a company that is easily swayed by the secondary market is not worth investing in.
 
@@ -1341,7 +1341,7 @@ Let's take another look at the equation that describes our returns:
 
 >**p = δ + α - γ**
 
-The p (performance) on the left side of the equation represents our final returns. On the right side, δ (*delta*)is an investment that matches the returns of the market with a β (*beta*) of 1. For regular investors, α (*alpha*) depends on our careful choice before we start investing. Finally, γ (*gamma*) represents gains that were lost due to mistakes. 
+The p (performance) on the left side of the equation represents our final returns. On the right side, δ (*delta*)is an investment that matches the returns of the market with a β (*beta*) of 1. For regular investors, α (*alpha*) depends on our careful choices before we start investing. Finally, γ (*gamma*) represents gains that were lost due to mistakes. 
 
 We have shown several times that as long as you don't do anything you won't make mistakes, so *gamma* should be zero and performance should be maximized. Unfortunately, you will always have the impulse to do something to change things and make them better. There's no way around it, because you are human, and our brains were designed to survive in dangerous environments. For tens of thousand of years, "do something when you encounter danger" was the best strategy, and those who chose to "do nothing in the face of danger" died out long ago. Our brains are still the same today, only able to understand immediate danger, and unable to understand future gains. It's just like we mentioned in Chapter 3 of Part Four: even in the face of more than two hundred years of data showing otherwise, people still think that cash is a truly safe investment. 
 
@@ -1349,13 +1349,13 @@ But if you invest in an MSCI World Index fund, or an S&P 500 fund, what can you 
 
 Most funds are established to chase *alpha*. Even though there are some clearly successful examples, they are extremely rare, and we can't eliminate the possibility that they were just lucky. Even Warren Buffett has clearly been lucky: he was born in the US. In addition to the US having been the fastest growing area in the world over the past fifty-five years, it has also had a stable legal environment in which private property has been relatively protected. If Warren Buffett had been born in South Korea, which has the highest rate of presidents and tycoons going to jail, how would he have done?
 
-How difficult is it to create *alpha*? Someone once joked that you if threw stock certificates in a room, let a monkey into the room, and made fund based on which stocks the monkey peed on, you could still beat the fund managers of most actively-managed funds. Sadly, the joke is correct!
+How difficult is it to create *alpha*? Someone once joked that if you threw stock certificates in a room, let a monkey into the room, and made a fund based on which stocks the monkey peed on, you could still beat the fund managers of most actively-managed funds. Sadly, the joke is correct!
 
 According to [a report](https://www.wsj.com/articles/indexes-beat-stock-pickers-even-over-15-years-1492039859) in the Wall Street Journal, in the fifteen years ending in 2016, *95.4%* of mid-cap funds underperformed the S&P MidCap 400, *93.2%* of small-cap funds underperformed the S&P SmallCap 600, and *92.2%* of large-cap funds underperformed the S&P 500...
 
 ![Figure36](../images/Figure36.png)
 
-Across the world in recent years more and more money has been flowing into passively-managed funds, and relatively less has been invested in actively-managed funds. It is said that money is smart, and it flows to where it can grow. Another example is how it flows from the hands of those who love to spend to those who chose to invest.
+Across the world in recent years more and more money has been flowing into passively-managed funds, and relatively less has been invested in actively-managed funds. It is said that money is smart, and it flows to where it can grow. Another example is how it flows from the hands of those who love to spend to those who choose to invest.
 
 American theologian Reinhold Niebuhr's "[Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)" is in fact a deep meditation on these boundaries. Its most common form is as follows:
 
@@ -1363,13 +1363,13 @@ American theologian Reinhold Niebuhr's "[Serenity Prayer](https://en.wikipedia.o
 >Courage to change the things I can,
 >And wisdom to know the difference.
 
-**Awareness of borders, a long term perspective, and macro observation.** Together, these three concepts can change a person's personality. I and my students have all felt this. People say that personality can decide one's fate, but I tend to believe that personality isn't innate, and that personality is only an overall expression of the interplay between the black horse, the white horse and the driver at different times and different stages of development. 
+**Awareness of borders, a long term perspective, and macro observation.** Together, these three concepts can change a person's personality. My students and I have all felt this. People say that personality can decide one's fate, but I tend to believe that personality isn't innate, and that personality is only an overall expression of the interplay between the black horse, the white horse and the driver at different times and different stages of development. 
 
 For example, deep thinking about these three concepts has made it very difficult for me to become angry. There is nothing that is worth my getting as angry as I used to get when I was younger. I have started to ponder the following phenomenon:
 
 >Why are some people able to succeed in even the harshest environments?
 
-My choice to be a regular investor, and my eventual ability to explain regular investing in detail, all started from asking myself this question. Looking at things from a long-term perspective can lead to you to the opposite of your previous conclusions; macro observations can lead you to choices that will produce better results over the long term; and awareness of borders can help you avoid trouble and wasted efforts. I have no need to complain about a poor environment, and I don't want to complain about how society is unfair. Unfairness in society is like the markets: as long as you look at it from a long-term perspective, it's pretty fair, but if you look at it minute-by-minute it's always unfair. Most importantly, I am increasingly able to accept always being underestimated. Just like in the stock market, you will only be very briefly overvalued, and it's probably a bubble, right?
+My choice to be a regular investor, and my eventual ability to explain regular investing in detail, all started from asking myself this question. Looking at things from a long-term perspective can lead you to the opposite of your previous conclusions; macro observations can lead you to choices that will produce better results over the long term; and awareness of borders can help you avoid trouble and wasted efforts. I have no need to complain about a poor environment, and I don't want to complain about how society is unfair. Unfairness in society is like the markets: as long as you look at it from a long-term perspective it's pretty fair, but if you look at it minute-by-minute it's always unfair. Most importantly, I am increasingly able to accept always being underestimated. Just like in the stock market, you will only be very briefly overvalued, and it's probably a bubble, right?
 
 Objectivity is very important. Not only objectivity about the world, but objectivity about yourself, and careful objectivity about the border of your self. Furthermore, it's even more important to be objective over the long term. This is the secret of investing. Of course, it's an open secret. 
 
@@ -1381,7 +1381,7 @@ Your final returns can be calculated by this equation:
 
 >**p = δ + α - γ**
 
-As a regular investor δ (*gamma*) is outside of your border, and there is nothing you can do to affect it. The process of making careful choices is where you create α (*alpha*). Your ability to lower γ (*gamma*) depends on how you manage yourself. Your awareness of borders also influences your *alpha* and *gamma*.
+As a regular investor δ (*delta*) is outside of your border, and there is nothing you can do to affect it. The process of making careful choices is where you create α (*alpha*). Your ability to lower γ (*gamma*) depends on how you manage yourself. Your awareness of borders also influences your *alpha* and *gamma*.
 
 Your investments must never leave the market, and you must invest your money, invest your time, and be a friend with time. You should constantly increase your ability to make money outside of the market by gradually upgrading your personal business model. No matter what you do you must learn how to sell. You must cross the wide gap between knowing and doing, becoming your own friend rather than your own worst enemy. You must be clear about borders, and always do your best at your own part. Regular investing is the most graceful performance art, and it can make your every second count.
 
@@ -1404,7 +1404,7 @@ What does it mean to live to 100? Your great-grandchildren will be grown and abl
 Regular investing can not only change a person's life, it can change a family's fate over generations, and it is a process that you will be able to see yourself. It's very important. 
 
 
-Li Xiaolai
+Xiaolai Li
 October 2019, Beijing
 
 ## Appendices
@@ -1582,7 +1582,7 @@ Li Xiaolai is an investor and a lifelong learner. http://lixiaolai.com · [xiaol
 
 -----
 
+[Download PDF of this book](https://onregularinvesting.com/pdf/on-regularinvesting-en.pdf)
 
-
-This book is released under the [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh).
+This book is released under the [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en).
 
